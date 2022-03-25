@@ -73,4 +73,6 @@ The rightmost number (3) is called the revision but it may also be referred to a
 - This is changelogs for iOS
 
 ### Result:
-![Simulator Screen Shot - iPhone 11 Pro - 2022-03-25 at 19 08 52](https://user-images.githubusercontent.com/50816149/160119371-873acc12-8af2-45f9-8c40-deca284f4a44.png)
+
+![Simulator Screen Shot - iPhone 11 Pro - 2022-03-25 at 19 08 52](https://user-images.githubusercontent.com/50816149/160119712-145f775e-b2d1-460d-8b0d-2389534229e8.png)
+
