@@ -12,7 +12,7 @@
         "link": "https://play.google.com/store/apps/details?id=com.bitmark.autonomy_client"
     },
     "devAndroid": {
-        "requiredVersion": "0.26.1",
+        "requiredVersion": "0.25.8",
         "link": "https://install.appcenter.ms/orgs/support-zzd0-28/apps/autonomy-android-1/distribution_groups/bitmark%20internal%20testers"
     }
 }
