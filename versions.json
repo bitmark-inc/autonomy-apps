@@ -4,7 +4,7 @@
         "link": "https://apps.apple.com/us/app/autonomy-app/id1544022728"
     },
     "devIOS": {
-        "requiredVersion": "0.26.1",
+        "requiredVersion": "0.26.5",
         "link": "https://install.appcenter.ms/orgs/support-zzd0-28/apps/autonomy-1/distribution_groups/testers"
     },
     "productionAndroid": {
