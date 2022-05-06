@@ -15,9 +15,9 @@ f0c63b1c38cfb46ddca43c02a0b1b29808f3747bc6c7bc399848de7e602b96b1
 Anytime you use one of Autonomy’s main features during that day, such as sending bitcoin to a contact or adding a contact, your mobile app will anonymously send a message to our analytics server that logs the general type of action and any relevant details, such as the amount of bitcoin in the payment and the time of the interaction. 
 Here’s an example of a log message for a bitcoin payment to another Autonomy contact: 
 
-```
+`
 Send-payment-info, c71760433833a905f8bbf4dc172c82725a08574462c2bbb3e393d52a1c7c07df,		0.0001,	dd3ce73b536b8c4951d59048e2a4da0578489adab9c14e37a72cce67edad7390,	2021-01-06T4:42:53.2260Z
-```
+`
 
 But that’s just the start. All messages in Autonomy are end-to-end encrypted before leaving your mobile device. Additionally, all messages are sent over Tor to further obscure all details about the sender and recipient. Tor is open-source software for enabling anonymous communication by directing Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays in order to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. This means that anyone attempting to intercept a message from your mobile app not only cannot read the content of the message (due to end-to-end encryption), but they also cannot know who or where it was sent from or to whom or where it is going (thanks to Tor).
 
