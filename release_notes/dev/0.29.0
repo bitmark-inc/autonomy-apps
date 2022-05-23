@@ -1,0 +1,18 @@
+## VERSION: 0.29.0
+- Fix mint issue on Fxhash.
+- Loading animation displays forever if there is not enough crypto to buy the token on objkt.com
+- Update the survey notification text.
+- Apply retry mechanism for request to prevent network connection issue dialog shows up frequently.
+- Fix onesignal error show up when error happen. Write to the log file instead.
+- Fix a bug cause wallet connect popup doesn't show if the view hasn't been initiated yet.
+- [Play artwork] The music still plays at Artwork detail screen when tapping on the title of the artwork
+- The videos still display when tapping on ">" btn while playing the videos #23
+
+What to test:
+- Should be able to mint using TezosBeacon.
+- Should display popup if tezos operation is not enough money.
+- See if the connection issue popup is still shown up frequently.
+- See if there is any onesignal related dialog is shown up.
+- Try to connect Feral File and Autonomy. And login to Feral File using the Autonomy app and transfer an artwork. It should show the signing request popup.
+- Check if the music still plays at Artwork detail screen when tapping on the title of the artwork
+- Check if the videos still display when tapping on ">" btn while playing the videos
