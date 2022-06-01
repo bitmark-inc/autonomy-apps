@@ -5,9 +5,9 @@ We collect usage data to improve Autonomy’s user experience and performance. S
 **How does Autonomy protect my privacy while still collecting usage data?**
 
 Autonomy sets a new standard for protecting the privacy of any usage data you contribute. As far as we know, no other app or crypto wallet does as much to conceal your privacy. 
-If you opt in to sending us usage data, the mobile app will mask your identity and device UUID by hashing them locally on your device before uploading them to our analytics server. This number is completely irreversible and is therefore absolutely unrelated to your Autonomy account number, your profile information, or your device in any way. It functions as a random identifier that helps us understand how you're using Autonomy without revealing anything about who you are. 
+If you opt in to sending us usage data, the mobile app will mask your identity and device UUID by hashing them locally on your device before uploading them to our analytics server. The final output of the hashing function is an essentially random string of numbers and letters that  cannot be reversed to reveal any information about you, your device, or any of your accounts. The hashes function as anonymous identifiers that helps us understand how you're using Autonomy without revealing anything about who you are. 
 
-Here’s an example of such a random number:
+Here’s an example of such a hash:
 ```
 f0c63b1c38cfb46ddca43c02a0b1b29808f3747bc6c7bc399848de7e602b96b1
 ```
