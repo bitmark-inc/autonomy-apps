@@ -44,6 +44,6 @@ Autonomy currently logs usage data for the following actions:
 
 Absolutely and unconditionally not. We will never sell your data to any third parties. We will never allow any third-party advertisers or data collectors to track any of your behaviors in Autonomy. 
 
-**If the Autonomy servers get hacked, could my usage data be compromised? **
+**If the Autonomy servers get hacked, could my usage data be compromised?**
 
 Absolutely not. We will never collect any personally identifiable information about you, such as your name, email address, or geographic location. Your Autonomy subscription information is completely controlled by Apple and Google, and we will never have any access to it. Contributing analytics can in no way put you at personal risk. Since you and only you control the keys to your wallet, no one can ever gain control of your wallet by hacking the Autonomy servers. 
