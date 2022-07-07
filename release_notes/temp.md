@@ -12,23 +12,23 @@ By clicking the "Accept" button for this Agreement and/or using the Software, yo
 3. Termination.  This Agreement is effective until terminated. You may terminate this Agreement at any time by destroying all copies of the Software in your possession or control. This Agreement will terminate immediately without notice from us if you fail to comply with any provision of this Agreement. Upon termination you must destroy all copies of the Software in your possession or control.
 
 4. DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY.  
-
+    
     THE SOFTWARE IS MADE AVAILABLE “AS IS”, “WITH ALL FAULTS” AND “AS AVAILABLE.”  WE DISCLAIM ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SATISFACTORY QUALITY AND NON-INFRINGEMENT.  WE MAKE NO WARRANTY THAT THE SOFTWARE IS OR WILL BE UNINTERRUPTED, SECURE OR ERROR-FREE.  IN NO EVENT SHALL WE BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, SAVINGS OR PROFITS; OR BUSINESS INTERRUPTION), IN EACH CASE HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE OR OTHERWISE IN CONNECTION WITH THIS AGREEMENT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
-
-
+    
+    
     OUR ENTIRE LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE TOTAL FEES PAID, IF ANY, BY YOU UNDER THIS AGREEMENT.  
-
-
+    
+    
     YOU AGREE THAT ANY CLAIM OR CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS AGREEMENT MUST BE FILED WITHIN ONE (1) YEAR AFTER SUCH CLAIM OR CAUSE OF ACTION AROSE OR BE FOREVER BARRED. SOME JURISDICTIONS DO NOT ALLOW IMPLIED WARRANTIES TO BE EXCLUDED OR MODIFIED OR LIABILITY TO BE LIMITED, SO NOT ALL OF THE ABOVE LIMITATIONS MAY APPLY TO YOU, AND THESE DISCLAIMERS AND WARRANTIES ARE MADE ONLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. 
-
-
+    
+    
     The disclaimers of warranty and limitations of liability set forth above are fundamental elements of the basis of the bargain between you and us, and you acknowledge and agree that we would not provide the Software to you without these limitations.
 
 5. General.  The laws of the State of Wyoming, U.S.A., excluding its conflicts of law rules, govern this Agreement and your use of the Software.  The UN Convention on Contracts for the International Sale of Goods is disclaimed.  You agree that exclusive jurisdiction for any claim or dispute arising from this Agreement shall be in the federal and state courts located in Cheyenne, Wyoming, U.S.A. 
-
+    
     You may not assign or transfer this Agreement or any rights hereunder, and any attempt to the contrary is void.   Subject to the preceding sentence, this Agreement benefits and binds the respective successors and assigns of the parties.  
-
-
+    
+    
     If any provision of this Agreement is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall be enforced. Our failure to act with respect to a breach of this Agreement by you or others does not waive our right to act with respect to subsequent or similar breaches. 
 
 
