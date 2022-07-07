@@ -1,4 +1,4 @@
-# Autonomy End User License Agreement 1
+# Autonomy End User License Agreement
 
 This End User License Agreement (this "Agreement") governs the terms and conditions of your use of the binary version of the software that accompanies this Agreement (the "Software"), and is made between you ("you" or "your"), and Bitmark Inc. ("we", "us" or "our").  If you are acting on behalf of an entity, such as a corporation, partnership, limited liability company or other entity, "you" refers to the entity, and you represent and warrant that you have power and authority to enter into this Agreement on behalf of the entity.  
 
