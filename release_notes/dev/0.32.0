@@ -1,0 +1,8 @@
+
+## VERSION: 0.32.0
+
+### Bug fixes
+- Should use TNS for Tezos address when sending Tezos NFT #520
+- Refactor (flutter lints + theme)
+
+Please help to test all features to make sure the app working normally
