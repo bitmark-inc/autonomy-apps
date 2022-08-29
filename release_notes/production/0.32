@@ -1,0 +1,15 @@
+## VERSION: 0.32.0
+
+This version mostly focuses on improvements and handle ERC1155 tokens. We go straight to the source to give you the stuff we know you’ll love.
+
+### What's new
+- Handle ERC1155 tokens.
+- iPad/Tablet UI/UX support.
+
+### Improvements
+- Update new UI for text, error reports, and more ...
+
+### Bug fixes
+- Lots. Rewards have been sent out. Thank you!
+
+Please let us know what you think!
