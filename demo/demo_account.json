@@ -1,10 +1,12 @@
 [
     {
         "address": "tv",
-        "name": "Demo TV"
+        "name": "Demo TV",
+        "thumbnailURL": "https://cdn.feralfileassets.com/thumbnails/2ee448fc-b02a-4f74-a8c0-0e4da84f7ab1/1653332527"
     },
     {
         "address": "tz1UjauA8DZ1qcgxMt3dL6UCkvk9oHz3VM6T",
-        "name": "Trung"
+        "name": "Trung",
+        "thumbnailURL": "https://ipfs.io/ipfs/QmSr7wiL4AHzbMn5cjPdTK92BQ2ZfL1UuG87q4V3j8ArtY"
     }
 ]
