@@ -5,7 +5,71 @@
       "tag": "Exhibition",
       "publisher": {
         "name": "Feral File",
-        "icon": "https://feralfile.com/assets/FeralFile.png"
+        "icon": "https://play-lh.googleusercontent.com/Guk5RiRN9KMV_mPIeXN4KNT0QG0q3Q5bl_CtBY4ubk_AU0J9IhYB9cG0w3RL6RNfYSw=w480-h960-rw"
+      },
+      "content": {
+        "exhibition_id": "77de6645-fe9d-44ab-8a89-94097d11e485"
+      }
+    },
+    {
+      "type": "Article",
+      "tag": "Essay",
+      "publisher": {
+        "name": "Kaloh",
+        "icon": "https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5693fd18-8784-4b9e-9fc0-a7e429161e94_1280x1280.png",
+        "intro": "Hi, I am Kaloh. I'm a computer and data scientist who worked 10 years in the tech industry. These days, I spend my time collecting, creating, and sharing my thoughts about NFT art."
+      },
+      "reference": {
+        "location": "London, UK",
+        "website": "kaloh.xyz",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/Kaloh_nft"
+          }
+        ]
+      },
+      "content": {
+        "title": "7 Reasons Why Bright Moments Could Be The Next Cirque du Soleil",
+        "description": "Let's review the similarities between both shows and Bright Moment's potential",
+        "thumbnail_url": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F278f2964-d839-43ba-817d-d82a0c28f8c0_1000x750.jpeg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/test/kaloh.md"
+      }
+    },
+    {
+      "type": "Article",
+      "tag": "Interview",
+      "publisher": {
+        "name": "Autonomy",
+        "icon": "https://play-lh.googleusercontent.com/Guk5RiRN9KMV_mPIeXN4KNT0QG0q3Q5bl_CtBY4ubk_AU0J9IhYB9cG0w3RL6RNfYSw=w480-h960-rw"
+      },
+      "reference": {
+        "location": "London, UK",
+        "website": "reeps100.com",
+        "socials": [
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/reepsone"
+          },
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/Reeps1"
+          }
+        ]
+      },
+      "content": {
+        "title": "Reeps One",
+        "description": "Harry Yeff aka Reeps100 is a London born neuro-divergent artist and technologist specializing in voice and tech-based expression. Yeff has been visualizing the voice for 15 years and is globally...",
+        "thumbnail_url": "https://cdn.feralfileassets.com/gallery-thumbnails/4d3d60e8-0f7b-4578-b5a7-efae617c3ce2/1664939721",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/test/au.md"
+      }
+    },
+    {
+      "type": "Collection",
+      "tag": "Exhibition",
+      "publisher": {
+        "name": "Feral File",
+        "icon": "https://play-lh.googleusercontent.com/Guk5RiRN9KMV_mPIeXN4KNT0QG0q3Q5bl_CtBY4ubk_AU0J9IhYB9cG0w3RL6RNfYSw=w480-h960-rw"
       },
       "content": {
         "exhibition_id": "48a442ae-3003-483e-b107-e9d37ae694bc"
@@ -63,6 +127,6 @@
         "thumbnail_url": "https://cdn.feralfileassets.com/gallery-thumbnails/4d3d60e8-0f7b-4578-b5a7-efae617c3ce2/1664939721",
         "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/test/au.md"
       }
-    }
+    },
   ]
 }
