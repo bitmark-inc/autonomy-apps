@@ -14,6 +14,10 @@ Here are 7 reasons why I think Bright Moments has the potential to become the ne
 
 # 1. Working with Trailblazer Crypto Artists
 
+
+![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F278f2964-d839-43ba-817d-d82a0c28f8c0_1000x750.jpeg)
+Cirque du Soleil is a world-class production that travels the world, putting together impressive performances since 1984.
+
 Since day one, Bright Moments has been collaborating with the most talented generative and crypto artists. Names like Tyler Hobbs (Incomplete Control) and Matt Deslaur (Folio) had their own exhibitions as part of Bright Moment’s past events.
 
 # 2. Next-Level Minting Experiences
