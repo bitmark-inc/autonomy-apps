@@ -24,3 +24,6 @@ The team worked with each artist to design their minting rooms, creating an ambi
 # 3. World Class Talks and Educational Content
 
 There were multiple weeks of workshops, and talks, covering topics like generative coded and AI art, Web 3 security and best practices, the generative art market, and high-profile projects like PROOF/Moonbirds.
+
+![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F278f2964-d839-43ba-817d-d82a0c28f8c0_1000x750.jpeg)
+Cirque du Soleil is a world-class production that travels the world, putting together impressive performances since 1984.
