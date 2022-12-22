@@ -1,33 +1,92 @@
-A few years ago, I attended a Cirque du Soleil show in Las Vegas. I was stunned by the performance, and it is probably one of the best shows I’ve ever seen. An inspiring mix of artists and acrobats, sound, special effects, and production… It had everything done spectacularly.
+# 🧐 In case you missed it...
 
-![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F278f2964-d839-43ba-817d-d82a0c28f8c0_1000x750.jpeg)
-Cirque du Soleil is a world-class production that travels the world, putting together impressive performances since 1984.
+Hello everyone! Here are 6 things worth sharing from the generative and crypto art world: 1. I introduced the Blind Gallery Club 👉 Read the announcement here. Public sales will happen on fxhash (December 16th). You can still enter the reserves list raffle by burning a Mint Certificate or old Mint Pass (700+ burned so far).
 
-> *From a group of 20 street performers at its beginnings in 1984, Cirque du Soleil is a major Québec-based organization providing high-quality artistic entertainment. The company has close to 4,000 employees, including 1,300 artists from more than 50 different countries.
-Cirque du Soleil has brought wonder and delight to more than 180 million spectators in more than 400 cities in over sixty countries on six continents.*
+---
 
-The company amazed its success by working with the best athletes (literally Olympian participants) and all kinds of performers, mixed with outstanding orchestration, to create a powerhouse that produces over $850M in revenue per year.
-I thought this real-life experience was impossible to match.
-Until last week, after I assisted Bright Moments, Mexico City.
+Hello everyone!
 
-Here are 7 reasons why I think Bright Moments has the potential to become the next Cirque du Soleil…
+Here are **6 things worth sharing** from the generative and crypto art world:
 
-# 1. Working with Trailblazer Crypto Artists
+1\. I introduced the Blind Gallery Club 👉 [Read the announcement here.](https://www.kaloh.xyz/p/blind-gallery-club)
+
+- Public sales will happen on fxhash (December 16th).
+
+- You can still enter the reserves list raffle by burning a Mint Certificate or old Mint Pass (700+ burned so far).
+
+- [Premium members](https://www.kaloh.xyz/subscribe?) that joined over the past 3 months can get a raffles entry. **Just reply to this email with your Tezos wallet.**
 
 
-![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F278f2964-d839-43ba-817d-d82a0c28f8c0_1000x750.jpeg)
-Cirque du Soleil is a world-class production that travels the world, putting together impressive performances since 1984.
+[![](https://substackcdn.com/image/twitter_name/w_96/BlindGallery_.jpg)\
+\
+Blind Gallery @BlindGallery\_\
+\
+Hello, art fans 👁️\
+\
+Today we are excited to introduce the next step for the #BlindGallery.\
+\
+The Blind Gallery Club!\
+\
+1/19 🧵 \
+\
+![Image](https://substackcdn.com/image/fetch/w_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFjZ4SvDXEBQihjn.jpg)](https://twitter.com/BlindGallery_/status/1600608577613451265?s=20&t=rjNs9JKoCBE8wTZkxZqi0A) [9:49 PM ∙ Dec 7, 2022\
+\
+* * *\
+\
+124Likes53Retweets](https://twitter.com/BlindGallery_/status/1600608577613451265?s=20&t=rjNs9JKoCBE8wTZkxZqi0A)
 
-Since day one, Bright Moments has been collaborating with the most talented generative and crypto artists. Names like Tyler Hobbs (Incomplete Control) and Matt Deslaur (Folio) had their own exhibitions as part of Bright Moment’s past events.
+2\. I shared a new market analysis about [fxhash live minting experiences](https://www.kaloh.xyz/p/market-analysis-fxhash-live-minting) (for premium subscribers only).
 
-# 2. Next-Level Minting Experiences
+[Subscribe now](https://www.kaloh.xyz/subscribe?)
 
-Minting alone from your laptop was fun one year ago. Seeing your reveal on a high-definition screen in a unique room is game-changing.
-The team worked with each artist to design their minting rooms, creating an ambiance that added much more to the artwork than just seeing it on your computer screen.
+3\. “Value creation in the metaverse” was released by **McKinsey & Company**.
 
-# 3. World Class Talks and Educational Content
+> _With its potential to generate up to $5 trillion in value by 2030, the metaverse is too big for companies to ignore._
 
-There were multiple weeks of workshops, and talks, covering topics like generative coded and AI art, Web 3 security and best practices, the generative art market, and high-profile projects like PROOF/Moonbirds.
+[Access the report here.](https://www.mckinsey.com/~/media/mckinsey/business%20functions/marketing%20and%20sales/our%20insights/value%20creation%20in%20the%20metaverse/Value-creation-in-the-metaverse.pdf)
 
-![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F278f2964-d839-43ba-817d-d82a0c28f8c0_1000x750.jpeg)
-Cirque du Soleil is a world-class production that travels the world, putting together impressive performances since 1984.
+4\. I’ll be chatting with **Sean Moss-Pultz (CEO of Bitmark)** about [Autonomy wallet](http://www.autonomy.io) and [Feral File](https://feralfile.com/) tomorrow on a Twitter Space (11 am EST / 6 pm CET).
+
+[Set a reminder here.](https://twitter.com/i/spaces/1yNGaNwDmevJj?s=20)
+
+[![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff66c0b0-25bf-4e4e-af5a-88e7e918b4b1_1080x1080.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff66c0b0-25bf-4e4e-af5a-88e7e918b4b1_1080x1080.png)
+
+5\. **Bright Moments** announced the [Golden Token Pack](https://brightmoments.mirror.xyz/9R-z2wvmt6wenXZa792wdeyRmpIGomasN90UnhdYvsA) for the last 4 cities in their journey.
+
+When: Wed, Dec 14 @ 10 am PT.
+
+[![](https://substackcdn.com/image/twitter_name/w_96/brtmoments.jpg)\
+\
+Bright Moments @brtmoments\
+\
+The adventure continues... ⛰️\
+\
+Secure your spot in the final four cities on our ten city journey with a Golden Token Mint Pack!\
+\
+Giving you the chance to mint @crypto\_citizens and generative art in some of the most iconic & vibrant destinations on the planet\
+\
+How to participate↓ \
+\
+![Image](https://substackcdn.com/image/fetch/w_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFjaZB1MVUAA93Ih.jpg)](https://twitter.com/brtmoments/status/1600634980727545856?s=20&t=wf3QASCgR4_vwfKBR4GL3Q) [11:34 PM ∙ Dec 7, 2022\
+\
+* * *\
+\
+41Likes11Retweets](https://twitter.com/brtmoments/status/1600634980727545856?s=20&t=wf3QASCgR4_vwfKBR4GL3Q)
+
+6\. **gmStudio** announced their following generative collection — 'Apollo' by [@AsafSlook](https://twitter.com/AsafSlook).
+
+[![](https://substackcdn.com/image/twitter_name/w_96/gmdaostudio.jpg)\
+\
+gm.studio @gmdaostudio\
+\
+Introducing: 'Apollo' by @AsafSlook](https://twitter.com/gmdaostudio/status/1601237805610733568?s=20&t=wf3QASCgR4_vwfKBR4GL3Q)
+
+[3:30 PM ∙ Dec 9, 2022\
+\
+* * *\
+\
+302Likes118Retweets](https://twitter.com/gmdaostudio/status/1601237805610733568?s=20&t=wf3QASCgR4_vwfKBR4GL3Q)
+
+Talk to you soon!
+
+\- Kaloh
