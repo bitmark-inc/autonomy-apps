@@ -1,0 +1,47 @@
+{
+  "editorial": [
+    {
+      "type": "Collection",
+      "tag": "Exhibition",
+      "publisher": {
+        "name": "Feral File",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/feralfile.png"
+      },
+      "content": {
+        "exhibition_id": "24e7d8fd-01b9-4673-9f46-6f69118feda1"
+      }
+    },
+    {
+      "type": "Article",
+      "tag": "Interview",
+      "publisher": {
+        "name": "Autonomy",
+        "icon": "https://play-lh.googleusercontent.com/Guk5RiRN9KMV_mPIeXN4KNT0QG0q3Q5bl_CtBY4ubk_AU0J9IhYB9cG0w3RL6RNfYSw=w480-h960-rw"
+      },
+      "reference": {
+        "location": "London, UK",
+        "website": "feralfile.com",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/feralfile"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/feralfile"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.gg/QVjjMzqzPJ"
+          }
+        ]
+      },
+      "content": {
+        "title": "Fear and Loathing in BOOM TOWN",
+        "description": "On the occasion of the solo exhibition BOOM TOWN, artist Peter Burr and curator Julia Kaganskiy discuss virtual town planning, the influence of MacPaint and SimCity, and time on the blockchain. ",
+        "thumbnail_url": "https://user-images.githubusercontent.com/47554564/206232095-8776147e-4e13-4d87-b87a-fdc9370a27f1.png",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/feral-file-docs/master/close-ups/%2325_Fear%20and%20Loathing%20in%20BOOM%20TOWN%20_EN.md"
+      }
+    }
+  ]
+}
