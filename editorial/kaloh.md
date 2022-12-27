@@ -8,15 +8,7 @@ Hello everyone!
 
 Today, I would like to weigh in on the differences between these two art styles. It all started on Twitter after I shared a poll to understand the perception of both disciplines.
 
-[![](https://substackcdn.com/image/twitter_name/w_96/Kaloh_nft.jpg)\
-\
-www.kaloh.xyz 🔮 @Kaloh\_nft\
-\
-What do you think will be more popular in the future, gen art or AI art?](https://twitter.com/Kaloh_nft/status/1560919649440727047?s=20) [9:20 AM ∙ Aug 20, 2022\
-\
-* * *\
-\
-13Likes2Retweets](https://twitter.com/Kaloh_nft/status/1560919649440727047?s=20)
+https://twitter.com/Kaloh_nft/status/1560919649440727047?s=20
 
 Despite the poll results, it became clear there is considerable confusion about the differences between both styles. I spent some time researching and will try to outline the contrasts between both areas or, at least, how I see them. During the process, I learned a lot, and before starting I have to say there isn’t a clear consensus about many of these definitions yet.
 
@@ -65,32 +57,7 @@ Some discourage this art practice (when using tools like Midjourney or DALL-E). 
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5e1d8fe7-48bd-4033-b1ef-1dfa68b535e0_2879x1438.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5e1d8fe7-48bd-4033-b1ef-1dfa68b535e0_2879x1438.png) [Tidal by JVDE for the Blind Gallery](https://objkt.com/asset/KT1SiWsWp3JDDCkTaDZBkVahAxRQj1djX5Eg/15)
 
-[![](https://substackcdn.com/image/twitter_name/w_96/JvdeNft.jpg)\
-\
-JVDE @JvdeNft\
-\
-The word is out!!! 🔥\
-For those who collected my work Tidal, Thank you so much for your support!\
-\
-I will be releasing more works from this series in smaller edition into this new wallet. Only available for Tidal holders!\
-\
-A big thank you to @Kaloh\_nft for hosting this event! \
-\
-![Image](https://substackcdn.com/image/fetch/w_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFaXv3m5WAAE9xBA.jpg)\
-\
-![](https://substackcdn.com/image/twitter_name/w_40/BlindGallery_.jpg)\
-\
-Blind Gallery @BlindGallery\_\
-\
-Tidal by @JvdeNft \
-\
-#blindgallery\
-\
-https://t.co/n7GcoDqxDr https://t.co/J7JYrzxo95](https://twitter.com/JvdeNft/status/1559916901190483971?s=20&t=pByX87cvmJqBno1rJs5b6A) [2:55 PM ∙ Aug 17, 2022\
-\
-* * *\
-\
-95Likes20Retweets](https://twitter.com/JvdeNft/status/1559916901190483971?s=20&t=pByX87cvmJqBno1rJs5b6A)
+https://twitter.com/JvdeNft/status/1559916901190483971?s=20&t=pByX87cvmJqBno1rJs5b6A
 
 ### What is Gen Art?
 
