@@ -1,11 +1,108 @@
 {
   "editorial": [
     {
+      "type": "Article",
+      "tag": "Essay",
+      "publisher": {
+        "name": "Feral File",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
+      },
+      "reference": {
+        "location": "London, UK",
+        "website": "feralfile.com",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/feralfile"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/feralfile"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.gg/QVjjMzqzPJ"
+          }
+        ]
+      },
+      "content": {
+        "title": "Always in Mutation",
+        "description": "How do cyberfeminist artists and pioneers of the movement see cyberfeminism mutate in the future?",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/AlwaysinMutation.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Always%20in%20Mutation.md"
+      }
+    },
+    {
+      "type": "Article",
+      "tag": "Essay",
+      "publisher": {
+        "name": "Feral File",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
+      },
+      "reference": {
+        "location": "London, UK",
+        "website": "feralfile.com",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/feralfile"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/feralfile"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.gg/QVjjMzqzPJ"
+          }
+        ]
+      },
+      "content": {
+        "title": "On Using Sci-Fi Plants to Imagine Speculative Futures",
+        "description": "The similarities between digital media and seeds, worldbuilding as a creative practice, and how the future can appear both utopian and dystopian at the same time",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Speculative.png",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/On%20Using%20Sci-Fi%20Plants%20to%20Imagine%20Speculative%20Futures.md"
+      }
+    }
+    ,
+    {
+      "type": "Article",
+      "tag": "Essay",
+      "publisher": {
+        "name": "Tyler Hobbs",
+        "icon": "https://images.squarespace-cdn.com/content/v1/5c12933f365f02733c923e4e/82010657-a1a2-4580-9977-db29b2bb340c/favicon.ico"
+      },
+      "reference": {
+        "location": "Austin, Texas, US",
+        "website": "tylerxhobbs.com",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/tylerxhobbs"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/tylerxhobbs"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.com/invite/D5QUQMncA7"
+          }
+        ]
+      },
+      "content": {
+        "title": "Intellectualism Has Hampered Generative Art",
+        "description": "“… the intellectual way and the inspired way are two different ways. If you are an artist the intellectual way has to be given up.” – Agnes Martin",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Intellectualism.png",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Intellectualism%20Has%20Hampered%20Generative%20Art.md"
+      }
+    },
+    {
       "type": "Collection",
       "tag": "Exhibition",
       "publisher": {
         "name": "Feral File",
-        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/feralfile.png"
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
       },
       "content": {
         "exhibition_id": "24e7d8fd-01b9-4673-9f46-6f69118feda1"
@@ -16,7 +113,7 @@
       "tag": "Interview",
       "publisher": {
         "name": "Feral File",
-        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/feralfile.png"
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
       },
       "reference": {
         "location": "London, UK",
@@ -65,7 +162,7 @@
         "title": "What's the difference between AI Art and Gen Art?",
         "description": "Here are the differences taking into account the current NFT art trends...",
         "thumbnail_url": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6d2052b5-a11b-4409-b432-0512352a2315_1221x1220.png",
-        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/kaloh.md"
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/kaloh.md"
       }
     }
   ]

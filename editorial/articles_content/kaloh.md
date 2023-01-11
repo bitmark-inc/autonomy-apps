@@ -8,7 +8,7 @@ Hello everyone!
 
 Today, I would like to weigh in on the differences between these two art styles. It all started on Twitter after I shared a poll to understand the perception of both disciplines.
 
-https://twitter.com/Kaloh_nft/status/1560919649440727047?s=20
+[https://twitter.com/Kaloh_nft/status/1560919649440727047?s=20](https://twitter.com/Kaloh_nft/status/1560919649440727047?s=20)
 
 Despite the poll results, it became clear there is considerable confusion about the differences between both styles. I spent some time researching and will try to outline the contrasts between both areas or, at least, how I see them. During the process, I learned a lot, and before starting I have to say there isn’t a clear consensus about many of these definitions yet.
 
@@ -57,7 +57,7 @@ Some discourage this art practice (when using tools like Midjourney or DALL-E). 
 
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5e1d8fe7-48bd-4033-b1ef-1dfa68b535e0_2879x1438.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5e1d8fe7-48bd-4033-b1ef-1dfa68b535e0_2879x1438.png) [Tidal by JVDE for the Blind Gallery](https://objkt.com/asset/KT1SiWsWp3JDDCkTaDZBkVahAxRQj1djX5Eg/15)
 
-https://twitter.com/JvdeNft/status/1559916901190483971?s=20&t=pByX87cvmJqBno1rJs5b6A
+[https://twitter.com/JvdeNft/status/1559916901190483971?s=20&t=pByX87cvmJqBno1rJs5b6A](https://twitter.com/JvdeNft/status/1559916901190483971?s=20&t=pByX87cvmJqBno1rJs5b6A)
 
 ### What is Gen Art?
 
