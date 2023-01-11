@@ -5,7 +5,7 @@
       "tag": "Exhibition",
       "publisher": {
         "name": "Feral File",
-        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/feralfile.png"
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
       },
       "content": {
         "exhibition_id": "24e7d8fd-01b9-4673-9f46-6f69118feda1"
@@ -16,7 +16,7 @@
       "tag": "Interview",
       "publisher": {
         "name": "Feral File",
-        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/feralfile.png"
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
       },
       "reference": {
         "location": "London, UK",
@@ -65,7 +65,7 @@
         "title": "What's the difference between AI Art and Gen Art?",
         "description": "Here are the differences taking into account the current NFT art trends...",
         "thumbnail_url": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6d2052b5-a11b-4409-b432-0512352a2315_1221x1220.png",
-        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/kaloh.md"
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/kaloh.md"
       }
     },
     {
@@ -73,7 +73,7 @@
       "tag": "Essay",
       "publisher": {
         "name": "Feral File",
-        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/feralfile.png"
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
       },
       "reference": {
         "location": "London, UK",
@@ -95,9 +95,9 @@
       },
       "content": {
         "title": "Always in Mutation",
-        "description": "Here are the differences taking into account the current NFT art trends...",
-        "thumbnail_url": "https://user-images.githubusercontent.com/47554564/206232095-8776147e-4e13-4d87-b87a-fdc9370a27f1.png",
-        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/Always%20in%20Mutation.md"
+        "description": "",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/AlwaysinMutation.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Always%20in%20Mutation.md"
       }
     }
   ]
