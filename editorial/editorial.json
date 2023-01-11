@@ -1,17 +1,6 @@
 {
   "editorial": [
     {
-      "type": "Collection",
-      "tag": "Exhibition",
-      "publisher": {
-        "name": "Feral File",
-        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
-      },
-      "content": {
-        "exhibition_id": "24e7d8fd-01b9-4673-9f46-6f69118feda1"
-      }
-    },
-    {
       "type": "Article",
       "tag": "Essay",
       "publisher": {
@@ -38,7 +27,7 @@
       },
       "content": {
         "title": "Always in Mutation",
-        "description": "",
+        "description": "How do cyberfeminist artists and pioneers of the movement see cyberfeminism mutate in the future?",
         "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/AlwaysinMutation.jpg",
         "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Always%20in%20Mutation.md"
       }
@@ -70,7 +59,7 @@
       },
       "content": {
         "title": "On Using Sci-Fi Plants to Imagine Speculative Futures",
-        "description": "",
+        "description": "The similarities between digital media and seeds, worldbuilding as a creative practice, and how the future can appear both utopian and dystopian at the same time",
         "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Speculative.png",
         "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/On%20Using%20Sci-Fi%20Plants%20to%20Imagine%20Speculative%20Futures.md"
       }
@@ -103,9 +92,20 @@
       },
       "content": {
         "title": "Intellectualism Has Hampered Generative Art",
-        "description": "",
+        "description": "“… the intellectual way and the inspired way are two different ways. If you are an artist the intellectual way has to be given up.” – Agnes Martin",
         "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Intellectualism.png",
         "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Intellectualism%20Has%20Hampered%20Generative%20Art.md"
+      }
+    },
+    {
+      "type": "Collection",
+      "tag": "Exhibition",
+      "publisher": {
+        "name": "Feral File",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
+      },
+      "content": {
+        "exhibition_id": "24e7d8fd-01b9-4673-9f46-6f69118feda1"
       }
     },
     {
