@@ -13,63 +13,6 @@
     },
     {
       "type": "Article",
-      "tag": "Interview",
-      "publisher": {
-        "name": "Feral File",
-        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
-      },
-      "reference": {
-        "location": "London, UK",
-        "website": "feralfile.com",
-        "socials": [
-          {
-            "name": "Twitter",
-            "url": "https://twitter.com/feralfile"
-          },
-          {
-            "name": "Instagram",
-            "url": "https://www.instagram.com/feralfile"
-          },
-          {
-            "name": "Discord",
-            "url": "https://discord.gg/QVjjMzqzPJ"
-          }
-        ]
-      },
-      "content": {
-        "title": "Fear and Loathing in BOOM TOWN",
-        "description": "On the occasion of the solo exhibition BOOM TOWN, artist Peter Burr and curator Julia Kaganskiy discuss virtual town planning, the influence of MacPaint and SimCity, and time on the blockchain. ",
-        "thumbnail_url": "https://user-images.githubusercontent.com/47554564/206232095-8776147e-4e13-4d87-b87a-fdc9370a27f1.png",
-        "data": "https://raw.githubusercontent.com/bitmark-inc/feral-file-docs/master/close-ups/%2325_Fear%20and%20Loathing%20in%20BOOM%20TOWN%20_EN.md"
-      }
-    },
-    {
-      "type": "Article",
-      "tag": "Essay",
-      "publisher": {
-        "name": "Kaloh",
-        "icon": "https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5693fd18-8784-4b9e-9fc0-a7e429161e94_1280x1280.png",
-        "intro": "Hi, I am Kaloh. I'm a computer and data scientist who worked 10 years in the tech industry. These days, I spend my time collecting, creating, and sharing my thoughts about NFT art."
-      },
-      "reference": {
-        "location": "Metaverse",
-        "website": "kaloh.xyz",
-        "socials": [
-          {
-            "name": "Twitter",
-            "url": "https://twitter.com/Kaloh_nft"
-          }
-        ]
-      },
-      "content": {
-        "title": "What's the difference between AI Art and Gen Art?",
-        "description": "Here are the differences taking into account the current NFT art trends...",
-        "thumbnail_url": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6d2052b5-a11b-4409-b432-0512352a2315_1221x1220.png",
-        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/kaloh.md"
-      }
-    },
-    {
-      "type": "Article",
       "tag": "Essay",
       "publisher": {
         "name": "Feral File",
@@ -163,6 +106,63 @@
         "description": "",
         "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Intellectualism.png",
         "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Intellectualism%20Has%20Hampered%20Generative%20Art.md"
+      }
+    },
+    {
+      "type": "Article",
+      "tag": "Interview",
+      "publisher": {
+        "name": "Feral File",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
+      },
+      "reference": {
+        "location": "London, UK",
+        "website": "feralfile.com",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/feralfile"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/feralfile"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.gg/QVjjMzqzPJ"
+          }
+        ]
+      },
+      "content": {
+        "title": "Fear and Loathing in BOOM TOWN",
+        "description": "On the occasion of the solo exhibition BOOM TOWN, artist Peter Burr and curator Julia Kaganskiy discuss virtual town planning, the influence of MacPaint and SimCity, and time on the blockchain. ",
+        "thumbnail_url": "https://user-images.githubusercontent.com/47554564/206232095-8776147e-4e13-4d87-b87a-fdc9370a27f1.png",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/feral-file-docs/master/close-ups/%2325_Fear%20and%20Loathing%20in%20BOOM%20TOWN%20_EN.md"
+      }
+    },
+    {
+      "type": "Article",
+      "tag": "Essay",
+      "publisher": {
+        "name": "Kaloh",
+        "icon": "https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5693fd18-8784-4b9e-9fc0-a7e429161e94_1280x1280.png",
+        "intro": "Hi, I am Kaloh. I'm a computer and data scientist who worked 10 years in the tech industry. These days, I spend my time collecting, creating, and sharing my thoughts about NFT art."
+      },
+      "reference": {
+        "location": "Metaverse",
+        "website": "kaloh.xyz",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/Kaloh_nft"
+          }
+        ]
+      },
+      "content": {
+        "title": "What's the difference between AI Art and Gen Art?",
+        "description": "Here are the differences taking into account the current NFT art trends...",
+        "thumbnail_url": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6d2052b5-a11b-4409-b432-0512352a2315_1221x1220.png",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/kaloh.md"
       }
     }
   ]
