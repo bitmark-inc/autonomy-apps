@@ -99,6 +99,71 @@
         "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/AlwaysinMutation.jpg",
         "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Always%20in%20Mutation.md"
       }
+    },
+    {
+      "type": "Article",
+      "tag": "Essay",
+      "publisher": {
+        "name": "Feral File",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
+      },
+      "reference": {
+        "location": "London, UK",
+        "website": "feralfile.com",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/feralfile"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/feralfile"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.gg/QVjjMzqzPJ"
+          }
+        ]
+      },
+      "content": {
+        "title": "On Using Sci-Fi Plants to Imagine Speculative Futures",
+        "description": "",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Speculative.png",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/On%20Using%20Sci-Fi%20Plants%20to%20Imagine%20Speculative%20Futures.md"
+      }
+    }
+    ,
+    {
+      "type": "Article",
+      "tag": "Essay",
+      "publisher": {
+        "name": "Tyler Hobbs",
+        "icon": "https://images.squarespace-cdn.com/content/v1/5c12933f365f02733c923e4e/82010657-a1a2-4580-9977-db29b2bb340c/favicon.ico"
+      },
+      "reference": {
+        "location": "Austin, Texas, US",
+        "website": "tylerxhobbs.com",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/tylerxhobbs"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/tylerxhobbs"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.com/invite/D5QUQMncA7"
+          }
+        ]
+      },
+      "content": {
+        "title": "Intellectualism Has Hampered Generative Art",
+        "description": "",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Intellectualism.png",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Intellectualism%20Has%20Hampered%20Generative%20Art.md"
+      }
     }
   ]
 }
