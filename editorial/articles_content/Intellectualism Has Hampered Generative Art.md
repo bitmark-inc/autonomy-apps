@@ -7,7 +7,7 @@
 > 
 > — Agnes Martin
 
-<br/>
+
 
 ![](https://i.imgur.com/nDuQKcv.jpg)
 *Careless and Well-Intentioned*, Tyler Hobbs
