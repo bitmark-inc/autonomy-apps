@@ -16,7 +16,7 @@ Though the conversations at the opening varied per the artist and their intervie
 “The mutation is the most normal process in our proceedings; the way we perceive the world should always be in mutation. Maybe the next generation of cyber feminism doesn’t need to be named: neither cyber, neither feminism, but definitely mutating. When you talk about a mutating medium, do you still use the same name? Or do you call it C.F. Variant 10.0? There will be a new generation, at the moment I feel that cyberfeminism is being rediscovered and celebrated. If we think forward, we may see a variant that is in a totally different state.” 
 
 ![](https://i.imgur.com/p77a7TF.jpg)
-*[I.K.U.: Expand, an interface](https://feralfile.com/artworks/iku-expand-an-interface-8qr?fromExhibition=wetware-tkl) by [Shu Lea Cheang](http://mauvaiscontact.info)*
+*[I.K.U.: Expand, an interface](https://feralfile.com/artworks/iku-expand-an-interface-8qr?fromExhibition=wetware-tkl)* by [Shu Lea Cheang](http://mauvaiscontact.info)
 
 **Morehshin Allahyari:**
 “I really agreed with the answer Prema shared, which is that in the far future, there will be a time that we don’t even need any of these terms, because there is enough justice and equality that we don’t need to define a space for this. That’s a far future way of thinking. In more near future terms, or what I think will change, or is already changing… is the very definition of womanhood, and also feminism. Historically, cyberfeminsm has been very binary in how it thinks of a female person, and its participants which are often from a western space — so a more near future change is that perhaps it can be more broadly inclusive.” 
