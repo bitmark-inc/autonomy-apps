@@ -1,12 +1,13 @@
-## VERSION: 0.32.4
+[#] 0.32.4 - Dec 12, 2022
 
 ### Changelogs
 - Comment on #1477 Support iPad UI/UX
 - Fix fungible token disappear issue 
 - [b] Top icon is cut off in Pixcel 6, device of Casey #1485
 
+---
 
-## VERSION: 0.32.3
+[#] 0.32.3 - Dec 01, 2022
 
 ### Changelogs
 - Support 1155 token
@@ -15,7 +16,9 @@
 - There is an inconsistency between debug log attachement and message to notify crash app #1480
 - [ui] Change access method warning text #1422
 
-## VERSION: 0.32.1
+---
+
+[#] 0.32.1 - Dec 01, 2022
 
 ### Changelogs
 - [f] Configurable release - remove network switch.
