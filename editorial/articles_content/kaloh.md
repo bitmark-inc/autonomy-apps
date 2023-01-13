@@ -6,6 +6,8 @@ Here are the differences taking into account the current NFT art trends...
 
 \n
 \n
+<br>
+<p><p>
 
 Hello everyone!
 
