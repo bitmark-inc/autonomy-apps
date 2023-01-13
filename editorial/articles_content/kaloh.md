@@ -4,8 +4,8 @@ Here are the differences taking into account the current NFT art trends...
 
 ---
 
-<br/>
-<br/>
+\n
+\n
 
 Hello everyone!
 
