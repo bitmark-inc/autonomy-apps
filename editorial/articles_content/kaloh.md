@@ -4,6 +4,9 @@ Here are the differences taking into account the current NFT art trends...
 
 ---
 
+<br/>
+<br/>
+
 Hello everyone!
 
 Today, I would like to weigh in on the differences between these two art styles. It all started on Twitter after I shared a poll to understand the perception of both disciplines.
