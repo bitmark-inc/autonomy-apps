@@ -3,12 +3,6 @@
 Here are the differences taking into account the current NFT art trends...
 
 ---
-<br />
-<br />
-<br />
-
-<p><p>
-<p><p>
 
 Hello everyone!
 
