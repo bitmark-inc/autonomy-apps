@@ -37,3 +37,14 @@ There's a new art form on the rise. Generative art has existed since the 1960s, 
 - [b] Fix tezos transaction app center build
 - [b] The unexpected notification "All files have been  downloaded" are sent to the user
 - [b] Balance of a full account does not update to reflect new balance when depositing/withdrawing money #698
+
+
+
+### Autonomy Connect
+- Am Long
+- Xin chaof
+- [f] Remove Feral File artwork prices
+- [f] Remove web3 login from FF
+- [b] Fix tezos transaction app center build
+- [b] The unexpected notification "All files have been  downloaded" are sent to the user
+- [b] Balance of a full account does not update to reflect new balance when depositing/withdrawing money #698
