@@ -1,4 +1,4 @@
-[#] 0.34.7 - Dec 12, 2022
+[#] 0.38.8 - Dec 12, 2022
 
 Introduction paragraph not mandatory. Lorem ipsum dolor sit amet consectetur. Nulla enim sagittis erat in vitae dolor sit dignissim diam.
 
@@ -32,6 +32,17 @@ There's a new art form on the rise. Generative art has existed since the 1960s, 
 ### Changelogs
 - [f] Configurable release - remove network switch.
 - [f] Reduce the frequency of showing crash alerts
+- [f] Remove Feral File artwork prices
+- [f] Remove web3 login from FF
+- [b] Fix tezos transaction app center build
+- [b] The unexpected notification "All files have been  downloaded" are sent to the user
+- [b] Balance of a full account does not update to reflect new balance when depositing/withdrawing money #698
+
+
+
+### Autonomy Connect
+- Am Long
+- Xin chaof
 - [f] Remove Feral File artwork prices
 - [f] Remove web3 login from FF
 - [b] Fix tezos transaction app center build
