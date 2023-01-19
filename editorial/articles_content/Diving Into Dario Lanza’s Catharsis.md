@@ -1,5 +1,4 @@
 # Diving Into Dario Lanza’s *Catharsis*
-
 ### Let's go deep into *Catharsis* and all the innovations it introduced
 
 ---
