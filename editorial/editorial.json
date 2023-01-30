@@ -1,5 +1,30 @@
 {
   "editorial": [
+     {
+      "type": "Article",
+      "tag": "Article",
+      "publisher": {
+        "name": "Kaloh",
+        "icon": "https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5693fd18-8784-4b9e-9fc0-a7e429161e94_1280x1280.png",
+        "intro": "Hi, I am Kaloh. I'm a computer and data scientist who worked 10 years in the tech industry. These days, I spend my time collecting, creating, and sharing my thoughts about NFT art."
+      },
+      "reference": {
+        "location": "Metaverse",
+        "website": "kaloh.xyz",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/Kaloh_nft"
+          }
+        ]
+      },
+      "content": {
+        "title": "10 Iconic One Of One NFTs (1/1s) On Tezos",
+        "description": "I’ve been doing some research about 1/1s. Here is what I found.",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/10IconicNFTs.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/10%20Iconic%20One%20Of%20One%20NFTs%20(1_1s)%20On%20Tezos.md"
+      }
+    },
     {
       "type": "Article",
       "tag": "Article",
