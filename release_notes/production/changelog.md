@@ -7,6 +7,9 @@ This release focuses on bug fixing and UI/UX improvements. Please let us know if
 - Update Web3 glossary button.
 - UI updates for warning popups.
 
+---
+
+
 [#] 0.36.3 - Jan 2, 2023
 
 This release focuses on bug fixing and UI/UX improvements. Please let us know if you find anymore issues!
@@ -14,6 +17,8 @@ This release focuses on bug fixing and UI/UX improvements. Please let us know if
 ### What's new
 - Fixed fee is too high when sending batch Tezos transactions.
 - UI improvements for Artwork details & Discovery
+
+---
 
 
 [#] 0.36.0 - Dec 23, 2022
