@@ -22,8 +22,8 @@ There's a new art form on the rise. Generative art has existed since the 1960s, 
 
 ### Changelogs
 - Support 1155 token [support](autonomy://support).
-- Ask for review
-- [b] "SAVE ALIAS" button still active although user has not enter the Account alias #945
+- Ask for review [home](autonomy://home).
+- [b] "SAVE ALIAS" button still active although user has not enter the Account alias #945 [home](autonomy://editorial).
 - There is an inconsistency between debug log attachement and message to notify crash app #1480
 - [ui] Change access method warning text #1422
 
