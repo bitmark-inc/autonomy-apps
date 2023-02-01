@@ -7,7 +7,7 @@
 This article was originally published 3 July 2022.
 
 To create this list, I looked at the early minted pieces on the Tezos blockchain and talked to many active collectors and artists. Additionally, I checked the market for sales, offers and potential future value. I also ignored big collections (like long-form 100+ collections on fxhash or pfps) because I wanted to focus on rarer and unique pieces.
-<span style="color:blue">some *blue* text</span>.
+
 **<span style="color:white">*Lushtemples — Highlights of the Hike*</span>, Zancan**
 
 Zancan is the top-selling artist in the Tezos blockchain. He has been slowly releasing 1/1s under the Lushtemples collection like *[A broad conversation in time](https://objkt.com/asset/hicetnunc/461707)* and *[Vantage points — Monument edition](https://objkt.com/asset/KT1MEEn4SZ7fD5c4FKXf68hZoWjtwcf4EGLg/1)*.
