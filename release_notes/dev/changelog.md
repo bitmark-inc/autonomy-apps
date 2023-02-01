@@ -14,7 +14,9 @@ There's a new art form on the rise. Generative art has existed since the 1960s, 
 - Fix fungible token disappear issue 
 - [b] Top icon is cut off in Pixcel 6, device of Casey #1485
 
+
 ---
+
 
 [#] 0.32.3 - Dec 01, 2022
 
