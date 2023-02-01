@@ -14,12 +14,14 @@ There's a new art form on the rise. Generative art has existed since the 1960s, 
 - Fix fungible token disappear issue 
 - [b] Top icon is cut off in Pixcel 6, device of Casey #1485
 
+
 ---
+
 
 [#] 0.32.3 - Dec 01, 2022
 
 ### Changelogs
-- Support 1155 token
+- Support 1155 token [support](autonomy://support).
 - Ask for review
 - [b] "SAVE ALIAS" button still active although user has not enter the Account alias #945
 - There is an inconsistency between debug log attachement and message to notify crash app #1480

@@ -108,7 +108,7 @@
         "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
       },
       "reference": {
-        "location": "London, UK",
+        "location": "Global",
         "website": "feralfile.com",
         "socials": [
           {
@@ -137,10 +137,10 @@
       "tag": "Essay",
       "publisher": {
         "name": "Feral File",
-        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/HowToCritique.png"
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
       },
       "reference": {
-        "location": "London, UK",
+        "location": "Global",
         "website": "feralfile.com",
         "socials": [
           {
@@ -215,7 +215,7 @@
         "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
       },
       "reference": {
-        "location": "London, UK",
+        "location": "Global",
         "website": "feralfile.com",
         "socials": [
           {
