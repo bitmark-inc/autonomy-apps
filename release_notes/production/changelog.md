@@ -13,7 +13,7 @@ Other improvements
 * Fixes for linking to MetaMask
 * Fixes to onboarding
 
-And more! [Reach out](https://LINK-TO-SUPPORT) in-app if there’s something that doesn’t work as you expect or a place you think we can improve!
+And more! [Reach out](autonomy://support) in-app if there’s something that doesn’t work as you expect or a place you think we can improve!
 
 ---
 
