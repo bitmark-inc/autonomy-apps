@@ -1,3 +1,22 @@
+[#] 0.36.7 - Feb 2, 2023
+
+![Editorial](https://user-images.githubusercontent.com/422993/216233614-8971f363-646e-438d-8142-fbcbc8dd9655.jpg)
+
+## Editorial
+
+Autonomy is adding a feed of exhibitions and articles we think you will find interesting. In our first release, we are working with [Kaloh](https://www.kaloh.xyz) to include posts from his newsletter, [Tyler Hobbs](https://tylerxhobbs.com/about) to include his essays, and [Feral File](https://feralfile.com/exhibitions) to highlight exhibitions. 
+
+Other improvements
+* Improvements to our NFT indexer
+* Speed up Discovery loading
+* Fixes for IPFS thumbnails
+* Fixes for linking to MetaMask
+* Fixes to onboarding
+
+And more! [Reach out](https://LINK-TO-SUPPORT) in-app if there’s something that doesn’t work as you expect or a place you think we can improve!
+
+---
+
 [#] 0.36.6 - Jan 18, 2023
 
 This release focuses on bug fixing and UI/UX improvements. Please let us know if you find anymore issues!
