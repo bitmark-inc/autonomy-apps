@@ -1,5 +1,30 @@
 {
   "editorial": [
+    {
+      "type": "Article",
+      "tag": "Article",
+      "publisher": {
+        "name": "Kaloh",
+        "icon": "https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5693fd18-8784-4b9e-9fc0-a7e429161e94_1280x1280.png",
+        "intro": "Hi, I am Kaloh. I'm a computer and data scientist who worked 10 years in the tech industry. These days, I spend my time collecting, creating, and sharing my thoughts about NFT art."
+      },
+      "reference": {
+        "location": "Metaverse",
+        "website": "kaloh.xyz",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/Kaloh_nft"
+          }
+        ]
+      },
+      "content": {
+        "title": "6 Reasons Why ArtBlock’s ‘Friendship Bracelets’ are Pumping",
+        "description": "Facts and speculative reasons why ‘Friendship Bracelets’ are mooning",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Friendship%20Bracelets.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/6%20Reasons%20Why%20ArtBlock’s%20‘Friendship%20Bracelets’%20are%20Pumping.md"
+      }
+    },
      {
       "type": "Article",
       "tag": "Article",
