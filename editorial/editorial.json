@@ -1,5 +1,62 @@
 {
   "editorial": [
+    {
+      "type": "Article",
+      "tag": "Essay",
+      "publisher": {
+        "name": "Tyler Hobbs",
+        "icon": "https://images.squarespace-cdn.com/content/v1/5c12933f365f02733c923e4e/82010657-a1a2-4580-9977-db29b2bb340c/favicon.ico"
+      },
+      "reference": {
+        "location": "Austin, Texas, US",
+        "website": "tylerxhobbs.com",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/tylerxhobbs"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/tylerxhobbs"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.com/invite/D5QUQMncA7"
+          }
+        ]
+      },
+      "content": {
+        "title": "The Rise of Long-Form Generative Art",
+        "description": "Generative art has existed since the 1960s, but the new on-chain generative art platforms are pushing the medium in an exciting new direction.",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Long%20Form%20Generative%20Art.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/The%20Rise%20of%20Long-Form%20Generative%20Art.md"
+      }
+    },
+    {
+      "type": "Article",
+      "tag": "Article",
+      "publisher": {
+        "name": "Kaloh",
+        "icon": "https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5693fd18-8784-4b9e-9fc0-a7e429161e94_1280x1280.png",
+        "intro": "Hi, I am Kaloh. I'm a computer and data scientist who worked 10 years in the tech industry. These days, I spend my time collecting, creating, and sharing my thoughts about NFT art."
+      },
+      "reference": {
+        "location": "Metaverse",
+        "website": "kaloh.xyz",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/Kaloh_nft"
+          }
+        ]
+      },
+      "content": {
+        "title": "6 Reasons Why ArtBlock’s ‘Friendship Bracelets’ are Pumping",
+        "description": "Facts and speculative reasons why ‘Friendship Bracelets’ are mooning",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Friendship%20Bracelets.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/6%20Reasons%20Why%20ArtBlock’s%20‘Friendship%20Bracelets’%20are%20Pumping.md"
+      }
+    },
      {
       "type": "Article",
       "tag": "Article",
