@@ -17,7 +17,7 @@ Second, the size of that final curated set was generally small. In fact, it was 
 There have been exceptions [1], but this was the way things were usually done. For an example from my own work, here are three iterations from *Lines 1*, a program from 2017. I initially generated about 200 images from the program, and then curated that down to a final set of just 10 images that I felt captured most of the interesting characteristics.
 
 ![](https://i.imgur.com/PCwXHi8.png)
-*Lines 1*, Tyler Hobbs
+<caption>*Lines 1*, Tyler Hobbs</caption>
 
 **The new world**
 
@@ -34,14 +34,14 @@ Fundamentally, with long-form, collectors and viewers become *much* more familia
 What are the implications of this? It makes the "average" output from the program crucial. In fact, even the worst outputs are arguably important, because they're just as visible. Before, this bad output could be ignored and discarded. The artist only cared about the top 5% of output, because that's what would make it into the final curated set to be presented to the public. The artist might have been happy to design an algorithm that produced 95% garbage and 5% gems.
 
 ![](https://i.imgur.com/wpTf2ba.jpg)
-Six iterations from *[Archetype](https://opensea.io/collection/archetype-by-kjetil-golid)*, by [Kjetil Golid](https://generated.space), 2021. This long-form project set an incredibly high bar for consistent quality.
+<caption>Six iterations from *[Archetype](https://opensea.io/collection/archetype-by-kjetil-golid)*, by [Kjetil Golid](https://generated.space), 2021. This long-form project set an incredibly high bar for consistent quality.</caption>
 
 That type of design doesn't work with long-form generative art. Instead, the artist needs to ensure that bad results are extremely rare. The algorithm can't stumble across great results by luck anymore, it needs to produce them dependably. Speaking as an artist, I can assure you that this is difficult. The logic around how generation works must be much more sophisticated. There's also a need for what is essentially a "quality assurance" process. The artist must systematically work through the full high-dimensional space of possible outputs, and ensure that all of them are up to par. For Fidenza, I spent about two months on this step. I repeatedly generated large sets of output, looked for the weakest examples, and figured out ways to improve or eliminate those cases.
 
 The need for consistent minimum output quality is dramatically complicated by the second new demand of long-form generativism: the output space of the algorithm must be varied enough to justify the set of 100, 500, or 1000 iterations generated from it. With a top-class algorithm, every output will have something new about it, a little surprise that teaches you more about what is possible. You shouldn't ever get bored flipping through the results. If you do, edition size should have been smaller, or the algorithm should have expressed more variety.
 
 ![](https://i.imgur.com/TsV3bqg.jpg)
-*[Fidenza #430](https://opensea.io/assets/ethereum/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/78000430)*, Tyler Hobbs
+<caption>*[Fidenza #430](https://opensea.io/assets/ethereum/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/78000430)*, Tyler Hobbs</caption>
 
 With that said, the artist should be careful about how they add variety to their program. Simply jamming in new elements can make the entire collection less coherent. It's better to carefully craft something that makes sense as a unified whole, something that is the full expression of a single idea. Just as we can judge the success of a long-form generative algorithm by the best, worst, and average outputs, we can also judge it by its "collective unity". It should make sense as a whole, to the extent where the removal of any one component would be harmful.
 
