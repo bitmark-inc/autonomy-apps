@@ -2,6 +2,38 @@
   "editorial": [
     {
       "type": "Article",
+      "tag": "Opening",
+      "publisher": {
+        "name": "Feral File",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
+      },
+      "reference": {
+        "location": "Internet",
+        "website": "feralfile.com",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/feralfile"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/feralfile"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.gg/QVjjMzqzPJ"
+          }
+        ]
+      },
+      "content": {
+        "title": "Opening: Chain Reaction",
+        "description": "NFTs as Catalysts and Proof of Action",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/ChainReactionOpening.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Opening_ChainReaction.md"
+      }
+    },
+    {
+      "type": "Article",
       "tag": "Announcement",
       "publisher": {
         "name": "Feral File",
