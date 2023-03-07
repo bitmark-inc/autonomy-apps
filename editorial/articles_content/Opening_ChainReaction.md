@@ -5,7 +5,7 @@
 
 ### Feral File is pleased to announce Chain Reaction, curated by Christiane Paul, curator of digital art at the Whitney, is now open. Visit the exhibition [here](https://feralfile.com/exhibitions/chain-reaction-tan).
 
-Christiane writes in his curator statement, titled NFTs as Catalysts and Proof of Action:
+Christiane writes in his curator statement, titled “NFTs as Catalysts and Proof of Action”:
 
 The exhibition Chain Reaction strives to underscore the inherent connections between the blockchain as a list of data blocks facilitating the recording of transactions and tracking of assets, and the generative social, aesthetic, and environmental contexts and networks in which these assets are embedded. The works in this exhibition explore their existence as “tokens” beyond just being technological records of a transaction: they function as catalysts in precipitating events or actions, from environmental preservation and sustainability of a creative process to aesthetic choices. NFTs are functionally defined by their non-fungible status. They are capable of encapsulating and proving ownership of digital artworks that are often characterized by malleable, generative, untraceable, or imperceptible qualities. The artworks in Chain Reaction highlight the porous boundaries between NFTs as a mechanism for unique identification, on the one hand, and as a common “keepsake” of a social contract and commitment, or collective action, on the other.
 
