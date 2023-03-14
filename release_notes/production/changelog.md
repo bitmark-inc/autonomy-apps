@@ -1,6 +1,6 @@
 [#] 0.38.0 - March 14, 2023
 
-This release is exclusively optimizations and performance improvements. 
+This release is mainly optimizations and UI/collection performance improvements. 
 
 [#] 0.37.0 - Feb 2, 2023
 
