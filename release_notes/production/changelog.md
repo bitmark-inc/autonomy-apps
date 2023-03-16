@@ -1,3 +1,7 @@
+[#] 0.38.0 - March 14, 2023
+
+This release is mainly optimizations and UI/collection performance improvements. 
+
 [#] 0.37.0 - Feb 2, 2023
 
 ![Editorial](https://user-images.githubusercontent.com/422993/216233614-8971f363-646e-438d-8142-fbcbc8dd9655.jpg)
