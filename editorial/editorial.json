@@ -26,6 +26,37 @@
         ]
       },
       "content": {
+        "title": "Creative Considerations For Generative Art Collections",
+        "description": "A comprehensive compendium of questions and concepts for consideration during the creation, curation and coding of generative collections.",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Creative%20Considerations.png",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Creative%20Considerations%20For%20Generative%20Art%20Collections.md"
+      }
+    },
+      "type": "Article",
+      "tag": "Article",
+      "publisher": {
+        "name": "fxhash",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
+      },
+      "reference": {
+        "location": "Internet",
+        "website": "fxhash.xyz",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/fx_hash_"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/fxhash"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.gg/fxhash"
+          }
+        ]
+      },
+      "content": {
         "title": "Communities Make the Movement",
         "description": "It’s this doing that can add up to a Movement, and what better tools has any such movement in art ever had, than us?",
         "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Communities%20Make%20the%20Movement.jpg",
