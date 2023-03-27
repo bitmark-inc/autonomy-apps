@@ -2,6 +2,38 @@
   "editorial": [
     {
       "type": "Article",
+      "tag": "Article",
+      "publisher": {
+        "name": "fxhash",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
+      },
+      "reference": {
+        "location": "Internet",
+        "website": "fxhash.xyz",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/fx_hash_"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/fxhash"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.gg/fxhash"
+          }
+        ]
+      },
+      "content": {
+        "title": "Communities Make the Movement",
+        "description": "It’s this doing that can add up to a Movement, and what better tools has any such movement in art ever had, than us?",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Communities%20Make%20the%20Movement.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Communities%20Make%20the%20Movement.md"
+      }
+    },
+    {
+      "type": "Article",
       "tag": "Announcement",
       "publisher": {
         "name": "Feral File",
