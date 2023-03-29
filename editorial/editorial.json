@@ -21,8 +21,8 @@
       "content": {
         "title": "Could this be the most influential AI artist ever?",
         "description": "Meet Botto, a decentralized and autonomous AI artist…",
-        "thumbnail_url": "https://github.com/bitmark-inc/autonomy-apps/blob/develop/editorial/thumbnails/Botto.jpg",
-        "data": "https://github.com/bitmark-inc/autonomy-apps/blob/develop/editorial/articles_content/Could%20this%20be%20the%20most%20influential%20AI%20artist%20ever_.md"
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/thumbnails/Botto.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/articles_content/Could%20this%20be%20the%20most%20influential%20AI%20artist%20ever_.md"
       }
     },
     {
@@ -53,8 +53,8 @@
       "content": {
         "title": "Announcing FeralVerse, the first NFT poetry exhibition on Feral File, curated by theVERSEverse",
         "description": "Feral File is pleased to announce FeralVerse, an exhibition that explores the myriad ways in which words and image intertwine.",
-        "thumbnail_url": "https://github.com/bitmark-inc/autonomy-apps/blob/develop/editorial/thumbnails/FeralVerse.jpg",
-        "data": "https://github.com/bitmark-inc/autonomy-apps/blob/develop/editorial/articles_content/Announcing%20FeralVerse%2C%20the%20first%20NFT%20poetry%20exhibition%20on%20Feral%20File%2C%20curated%20by%20theVERSEverse.md"
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/FeralVerse.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial//articles_content/Announcing%20FeralVerse%2C%20the%20first%20NFT%20poetry%20exhibition%20on%20Feral%20File%2C%20curated%20by%20theVERSEverse.md"
       }
     },
     {
