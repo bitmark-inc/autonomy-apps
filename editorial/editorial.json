@@ -52,9 +52,9 @@
       },
       "content": {
         "title": "Announcing FeralVerse, the first NFT poetry exhibition on Feral File, curated by theVERSEverse",
-        "description": "Feral File is pleased to announce FeralVerse, an exhibition that explores the myriad ways in which words and image intertwine.",
+        "description": "FeralVerse explores the myriad ways in which words and image intertwine.",
         "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/FeralVerse.jpg",
-        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial//articles_content/Announcing%20FeralVerse%2C%20the%20first%20NFT%20poetry%20exhibition%20on%20Feral%20File%2C%20curated%20by%20theVERSEverse.md"
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Announcing%20FeralVerse%2C%20the%20first%20poetry%20exhibition%20on%20Feral%20File.md"
       }
     },
     {
