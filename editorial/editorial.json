@@ -2,6 +2,38 @@
   "editorial": [
     {
       "type": "Article",
+      "tag": "Essay",
+      "publisher": {
+        "name": "Tyler Hobbs",
+        "icon": "https://images.squarespace-cdn.com/content/v1/5c12933f365f02733c923e4e/82010657-a1a2-4580-9977-db29b2bb340c/favicon.ico"
+      },
+      "reference": {
+        "location": "Austin, Texas, US",
+        "website": "tylerxhobbs.com",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/tylerxhobbs"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/tylerxhobbs"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.com/invite/D5QUQMncA7"
+          }
+        ]
+      },
+      "content": {
+        "title": "The importance of generative art",
+        "description": "Generative art may feel like a technical excursion with little relevance to our daily lives. What can a computer program have to say about the human experience?",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/The%20importance%20of%20generative%20art.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/The%20importance%20of%20generative%20art.md"
+      }
+    },
+    {
+      "type": "Article",
       "tag": "Article",
       "publisher": {
         "name": "Kaloh",
