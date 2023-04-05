@@ -79,4 +79,4 @@ The companion piece released with this introduction started as an experiment wit
 
 Thanks to Cosimo, Who?, Andreas Rau, Louis & Liam Egan for guidance, feedback, and listening to me ramble as I muddled my way though this introduction.
 
-You can find me charlie on Twtter at [0x0907](https://twitter.com/0x0907).
+You can find charlie on Twtter at [0x0907](https://twitter.com/0x0907).
