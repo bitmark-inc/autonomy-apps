@@ -1,5 +1,69 @@
 {
   "editorial": [
+     {
+      "type": "Article",
+      "tag": "Article",
+      "publisher": {
+        "name": "fxhash",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/fxhash.png"
+      },
+      "reference": {
+        "location": "Internet",
+        "website": "fxhash.xyz",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/fx_hash_"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/fxhash"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.gg/fxhash"
+          }
+        ]
+      },
+      "content": {
+        "title": "Iteration is Usually Recursive",
+        "description": "Finding answers in pre-computational art",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Iteration.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Creative%20Considerations%20For%20Generative%20Art%20Collections.md"
+      }
+    },
+     {
+      "type": "Article",
+      "tag": "Announcement",
+      "publisher": {
+        "name": "Feral File",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
+      },
+      "reference": {
+        "location": "Internet",
+        "website": "feralfile.com",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/feralfile"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/feralfile"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.gg/QVjjMzqzPJ"
+          }
+        ]
+      },
+      "content": {
+        "title": "Now Open: FeralVerse, the first poetry exhibition on Feral File",
+        "description": "FeralVerse explores the myriad ways in which words and image intertwine.",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/FeralVerse.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Now%20Open_%20FeralVerse%2C%20the%20first%20poetry%20exhibition%20on%20Feral%20File.md"
+      }
+    },
     {
       "type": "Article",
       "tag": "Essay",
@@ -55,38 +119,6 @@
         "description": "Meet Botto, a decentralized and autonomous AI artist…",
         "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Botto.jpg",
         "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Could%20this%20be%20the%20most%20influential%20AI%20artist%20ever_.md"
-      }
-    },
-    {
-      "type": "Article",
-      "tag": "Announcement",
-      "publisher": {
-        "name": "Feral File",
-        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
-      },
-      "reference": {
-        "location": "Internet",
-        "website": "feralfile.com",
-        "socials": [
-          {
-            "name": "Twitter",
-            "url": "https://twitter.com/feralfile"
-          },
-          {
-            "name": "Instagram",
-            "url": "https://www.instagram.com/feralfile"
-          },
-          {
-            "name": "Discord",
-            "url": "https://discord.gg/QVjjMzqzPJ"
-          }
-        ]
-      },
-      "content": {
-        "title": "Announcing FeralVerse, the first NFT poetry exhibition on Feral File, curated by theVERSEverse",
-        "description": "FeralVerse explores the myriad ways in which words and image intertwine.",
-        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/FeralVerse.jpg",
-        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Announcing%20FeralVerse%2C%20the%20first%20poetry%20exhibition%20on%20Feral%20File.md"
       }
     },
     {
