@@ -45,8 +45,7 @@ Recursion is a logical function where the function calls itself, only ending whe
 
 Suppose generative art is a descriptor of a specific subset of primarily digital art. Within that, there are yet unnamed sub-genres (though they’re often identified by common programatic themes such as fractals, flow fields, recursive-subdivison, L-systems, and more recently AI), including ones that aren’t primarily digital (such as the plotter-twitter community). Then, one could argue that more effort should be put into identifying a correct taxonomy for the sub-genres rather than arguing about the potentially outdated head of the taxilogical hierarchy.
 
-![](https://i.imgur.com/b8Itqig.jpg)<caption>"[Loom #261](https://www.fxhash.xyz/gentk/slug/loom-261)" by [Andreas Rau](https://www.fxhash.xyz/u/andreasrau)
-</caption>
+![](https://i.imgur.com/b8Itqig.jpg)<caption>"[Loom #261](https://www.fxhash.xyz/gentk/slug/loom-261)" by [Andreas Rau](https://www.fxhash.xyz/u/andreasrau)</caption>
 
 If generative art descriptions can also encapsulate mediums which are analogue, it brings into question the legitimacy of the primarily digital arguments. Perhaps the name can be put to rest for more declarative identifiers — inclusive of historic artists and art, whilst not confusing somewhat opposed modes of thought regarding the analogue/digital conceptual paradigms. I believe the answer to this lies in the long lineage of art which follows rules — and those who have dreamed to break them from the inside.
 
