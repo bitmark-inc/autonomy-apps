@@ -34,7 +34,7 @@
     },
      {
       "type": "Article",
-      "tag": "Announcement",
+      "tag": "Opening",
       "publisher": {
         "name": "Feral File",
         "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
