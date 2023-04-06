@@ -45,16 +45,16 @@ First, some code on fx(hash) generates SVG files, which are resolution independe
 
 Next, artworks that run shader code tend to run at whatever resolution your screen is. The shader program is executed for every pixel on the screen. My collection *Voxelsne* is implemented in this manner. And, for *Voxelsne*, if your GPU is sufficiently powerful you can increase the amount of antialiasing to get extra smooth renders.
 
-![Voxelsne #1](https://media.fxhash.xyz/w_1400/QmSMi4D6FfFUgsNt6EyK3RFSz5m67B6qxmFtsSjmGgT9gL)<caption>[Voxelsne #1](https://www.fxhash.xyz/gentk/slug/voxelsne-1) by [Claus Wilke](https://www.fxhash.xyz/u/clauswilke)</caption>
+![Voxelsne #1](https://media.fxhash.xyz/w_1400/QmSMi4D6FfFUgsNt6EyK3RFSz5m67B6qxmFtsSjmGgT9gL)<caption>["Voxelsne #1"](https://www.fxhash.xyz/gentk/slug/voxelsne-1) by [Claus Wilke](https://www.fxhash.xyz/u/clauswilke)</caption>
 
 A famous collection that similarly adapts to the screen size is *Reading a book* by Kim Asendorf.
 
 ![Reading a book #831](https://media.fxhash.xyz/w_1400/QmQhVHJTsVELt6aS3tqDzVb9Bu3Bp9xUUvxqoo3n7PmEZb)<caption>"[Reading a book #831](https://www.fxhash.xyz/gentk/slug/reading-a-book-831)" by [Kim Asendorf](https://www.fxhash.xyz/u/Kim%20Asendorf)</caption>
 
 
-Finally, probably the most common approach is to render into an off-screen canvas at a given resolution, and to allow the users to request a higher resolution via keyboard commands or URL parameters. My collection The Artifact works in this manner. You can try out [this link](https://gateway.fxhash2.xyz/ipfs/QmVSse7Y1Vw3NbwCbjuvtPn7rqL1bvXvBDkTsiL1RVVDeQ/?fxhash=oo5BehjnhSgz6Mt3e5PQ1zCLW9winX71bBMZ7WfzguVaYi1HXCD&r=2&d=2) to generate an ultra-high resolution render of the same iteration shown here.
+Finally, probably the most common approach is to render into an off-screen canvas at a given resolution, and to allow the users to request a higher resolution via keyboard commands or URL parameters. My collection *The Artifact* works in this manner. You can try out [this link](https://gateway.fxhash2.xyz/ipfs/QmVSse7Y1Vw3NbwCbjuvtPn7rqL1bvXvBDkTsiL1RVVDeQ/?fxhash=oo5BehjnhSgz6Mt3e5PQ1zCLW9winX71bBMZ7WfzguVaYi1HXCD&r=2&d=2) to generate an ultra-high resolution render of the same iteration shown here.
 
-![The Artifact #220](https://media.fxhash.xyz/w_1400/QmXj4cAczDtuKF1CDSFAKxMBdF2ucPbywKaXxUeNyjJFbV)<caption>The "[Artifact #220](https://www.fxhash.xyz/gentk/slug/the-artifact-220)" by [Claus Wilke](https://www.fxhash.xyz/u/clauswilke)</caption>
+![The Artifact #220](https://media.fxhash.xyz/w_1400/QmXj4cAczDtuKF1CDSFAKxMBdF2ucPbywKaXxUeNyjJFbV)<caption>"[The Artifact #220](https://www.fxhash.xyz/gentk/slug/the-artifact-220)" by [Claus Wilke](https://www.fxhash.xyz/u/clauswilke)</caption>
 
 The collection *Stepping Stones* by teaboswell has similar functionality.
 
