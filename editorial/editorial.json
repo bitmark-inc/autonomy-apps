@@ -26,13 +26,13 @@
         ]
       },
       "content": {
-        "title": "Iteration is Usually Recursive",
-        "description": "Finding answers in pre-computational art",
-        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Iteration.jpg",
-        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Iteration%20is%20Usually%20Recursive%20%E2%80%94%20Introduction_%20Finding%20answers%20in%20pre-computational%20art.md"
+        "title": "Art permanence on Ethereum and on Tezos",
+        "description": "An extended article based on a recent Twitter thread on “chain risk” and art NFTs on Ethereum and Tezos.",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/ArtPerformance.png",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Art%20permanence%20on%20Ethereum%20and%20on%20Tezos.md"
       }
     },
-     {
+    {
       "type": "Article",
       "tag": "Opening",
       "publisher": {
@@ -62,6 +62,38 @@
         "description": "FeralVerse explores the myriad ways in which words and image intertwine.",
         "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/FeralVerse.jpg",
         "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Now%20Open_%20FeralVerse%2C%20the%20first%20poetry%20exhibition%20on%20Feral%20File.md"
+      }
+    },
+     {
+      "type": "Article",
+      "tag": "Article",
+      "publisher": {
+        "name": "fxhash",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/fxhash.png"
+      },
+      "reference": {
+        "location": "Internet",
+        "website": "fxhash.xyz",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/fx_hash_"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/fxhash"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.gg/fxhash"
+          }
+        ]
+      },
+      "content": {
+        "title": "Iteration is Usually Recursive",
+        "description": "Finding answers in pre-computational art",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Iteration.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Iteration%20is%20Usually%20Recursive%20%E2%80%94%20Introduction_%20Finding%20answers%20in%20pre-computational%20art.md"
       }
     },
     {
