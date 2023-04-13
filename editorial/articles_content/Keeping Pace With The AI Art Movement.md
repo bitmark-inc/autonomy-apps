@@ -20,8 +20,7 @@ After exploring this gallery and mixing a few other platforms I’ve been tracki
 
 **STR4NGETHING**
 
-![](https://i.imgur.com/k6HHQro.jpg)<caption>"[TH3 B00TL3GER](https://foundation.app/@STR4NGETHING/WR0ng/3)", STR4NGETHING
-</caption>
+![](https://i.imgur.com/k6HHQro.jpg)<caption>"[TH3 B00TL3GER](https://foundation.app/@STR4NGETHING/WR0ng/3)", STR4NGETHING</caption>
 
 
 In a world where branding, fashion, and mystery converge, [STR4NGETHING](https://twitter.com/Str4ngeThing) has masterfully crafted an awe-inspiring digital presence. With nods to the past and a dash of enigma, he has garnered attention from VOGUE, Complex, and Hyper Beast. Inspired by the curious phenomenon of the Mandela Effect in Fashion, where contemporary objects seem misplaced in time, STR4NGETHING blurs the boundaries of the past and present in a mesmerizing display of artistic originality.
