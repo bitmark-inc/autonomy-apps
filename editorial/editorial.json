@@ -2,6 +2,38 @@
   "editorial": [
     {
       "type": "Article",
+      "tag": "Close-up",
+      "publisher": {
+        "name": "Feral File",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
+      },
+      "reference": {
+        "location": "Internet",
+        "website": "feralfile.com",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/feralfile"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/feralfile"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.gg/QVjjMzqzPJ"
+          }
+        ]
+      },
+      "content": {
+        "title": "Forthcoming from Feral File: Rick Silva’s Solo Exhibition BLOOMCORE",
+        "description": "Silva 3D-scanned hundreds of blooming plants throughout the Pacific Northwest, which he later grafted and pruned into a hyper-flora.",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/RickCloseUp.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Ikebana%20Meets%20Gene%20Splicing.md"
+      }
+    },
+    {
+      "type": "Article",
       "tag": "Article",
       "publisher": {
         "name": "Kaloh",
