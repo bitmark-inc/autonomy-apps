@@ -2,7 +2,7 @@
 
 This article was originally published March 4, 2023.
 
-Since immersing myself in [the BrainDrops world last week](https://www.kaloh.xyz/p/market-analysis-braindrops), I have wanted to explore the AI art universe further. However, I must confess, I found myself crippled by analysis paralysis… Where should I start? With a plethora of options at my fingertips, I was overwhelmed and unable to take the first step.
+Since immersing myself in the BrainDrops world last week, I have wanted to explore the AI art universe further. However, I must confess, I found myself crippled by analysis paralysis… Where should I start? With a plethora of options at my fingertips, I was overwhelmed and unable to take the first step.
 
 Luckily, a few days ago, I DMed my friend ClownVamp — known for creating and collecting AI art (and all sorts of digital art) before it was cool — to see what he was up to.
 
