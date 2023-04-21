@@ -4,8 +4,6 @@
 
 This article was originally published March 18, 2023.
 
-As you have probably noticed by now, I’ve been obsessing over AI art over the past month. So far, we’ve dived into different forms of [curated galleries](https://www.kaloh.xyz/p/market-analysis-braindrops) and [artists to watch](https://www.kaloh.xyz/p/keeping-pace-with-the-ai-art-movement).
-
 Today, we’ll learn about one of the most distinctive artists in the AI art space.
 
 ![](https://i.imgur.com/TfesQ2o.jpg)
