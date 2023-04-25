@@ -1,6 +1,27 @@
+[#] 0.40.0 - Apr 25, 2023
+
+This release focuses mainly on bug fixing and UI/UX improvements.
+
+### What's new
+- Customer Support: Request user to send explainer before sending debug log.
+- UI/UX: Fix how special token thumbnails are displayed.
+
+### Wallets
+
+![image](https://user-images.githubusercontent.com/61187455/233999293-7a9b398e-1602-410a-a4cd-0e9946bd9c60.png)
+
+- Better visual separation between wallets and addresses.
+- Ability to add and remove address.
+- Ability to hide from collection some addresses.
+- Ability to see balance and transaction events from a linked wallet.
+
+---
+
 [#] 0.38.0 - March 14, 2023
 
 This release is mainly optimizations and UI/collection performance improvements. 
+
+---
 
 [#] 0.37.0 - Feb 2, 2023
 
