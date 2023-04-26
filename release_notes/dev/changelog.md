@@ -1,4 +1,4 @@
-[#] 0.38.8 - Dec 12, 2022
+[#] 0.39.2 - Dec 12, 2022
 
 Introduction paragraph not mandatory. Lorem ipsum dolor sit amet consectetur. Nulla enim sagittis erat in vitae dolor sit dignissim diam.
 
