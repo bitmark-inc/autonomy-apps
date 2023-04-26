@@ -1,11 +1,11 @@
-[#] 0.38.8 - Dec 12, 2022
+[#] 0.39.2 - Dec 12, 2022
 
 Introduction paragraph not mandatory. Lorem ipsum dolor sit amet consectetur. Nulla enim sagittis erat in vitae dolor sit dignissim diam.
 
 ![](https://i.imgur.com/p77a7TF.jpg)
 *[I.K.U.: Expand, an interface](https://feralfile.com/artworks/iku-expand-an-interface-8qr?fromExhibition=wetware-tkl) by [Shu Lea Cheang](http://mauvaiscontact.info)*
 
-### Discover onboaring
+### Discover onboarding
 
 There's a new art form on the rise. Generative art has existed since the 1960s, but the new on-chain generative art platforms are pushing the medium in an exciting new direction. 
 
