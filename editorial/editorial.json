@@ -2,6 +2,63 @@
   "editorial": [
     {
       "type": "Article",
+      "tag": "Essay",
+      "publisher": {
+        "name": "Tyler Hobbs",
+        "icon": "https://images.squarespace-cdn.com/content/v1/5c12933f365f02733c923e4e/82010657-a1a2-4580-9977-db29b2bb340c/favicon.ico"
+      },
+      "reference": {
+        "location": "Austin, Texas, US",
+        "website": "tylerxhobbs.com",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/tylerxhobbs"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/tylerxhobbs"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.com/invite/D5QUQMncA7"
+          }
+        ]
+      },
+      "content": {
+        "title": "Color arrangement in generative art",
+        "description": "Many aspiring generative artists find color to be one of the most difficult aspects of their work.",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Color%20arrangement%20in%20generative%20art.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Color%20arrangement%20in%20generative%20art.md"
+      }
+    },
+    {
+      "type": "Article",
+      "tag": "Article",
+      "publisher": {
+        "name": "Kaloh",
+        "icon": "https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5693fd18-8784-4b9e-9fc0-a7e429161e94_1280x1280.png",
+        "intro": "Hi, I am Kaloh. I'm a computer and data scientist who worked 10 years in the tech industry. These days, I spend my time collecting, creating, and sharing my thoughts about NFT art."
+      },
+      "reference": {
+        "location": "Metaverse",
+        "website": "kaloh.xyz",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/Kaloh_nft"
+          }
+        ]
+      },
+      "content": {
+        "title": "Are NFTs a Modern Tulip Mania?",
+        "description": "My encounter with a “Right Click Saver” made me research tulips’ history",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Are%20NFTs%20a%20Modern%20Tulip%20Mania.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Are%20NFTs%20a%20Modern%20Tulip%20Mania.md"
+      }
+    },
+    {
+      "type": "Article",
       "tag": "Announcement",
       "publisher": {
         "name": "Feral File",
