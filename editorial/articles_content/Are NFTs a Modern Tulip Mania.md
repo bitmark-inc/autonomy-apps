@@ -31,7 +31,7 @@ Many investors who had purchased tulip bulbs on credit were left with huge debts
 Sound familiar?
 
 
-![NFT Global Sales Volume over time, courtesy of Crypto Slam.](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa933043b-6d74-48c7-8997-25281d8ff52f_2830x898.png)<caption>NFT Global Sales Volume over time, courtesy of Crypto Slam.<caption>
+![NFT Global Sales Volume over time, courtesy of Crypto Slam.](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa933043b-6d74-48c7-8997-25281d8ff52f_2830x898.png)<caption>NFT Global Sales Volume over time, courtesy of Crypto Slam.</caption>
 
 After these events, a tulip satire movement emerged...
 
