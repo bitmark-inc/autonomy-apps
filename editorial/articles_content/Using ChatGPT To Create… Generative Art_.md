@@ -123,3 +123,5 @@ On the one hand, it offers artists new tools and techniques that can enhance the
 Purpose, connection, and originality will be even more crucial than technical complexity and the WOW factor.
 
 Until next time,
+
+– Kaloh
