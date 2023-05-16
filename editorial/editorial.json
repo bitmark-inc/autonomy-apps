@@ -2,6 +2,39 @@
   "editorial": [
     {
       "type": "Article",
+      "tag": "Article",
+      "publisher": {
+        "name": "objkt",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/objkt.png"
+      },
+      "publishedAt": "2023-05-17T10:00:00Z",
+      "reference": {
+        "location": "Internet",
+        "website": "objkt.com",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/objktcom"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/objktcom"
+          },
+          {
+            "name": "Discord",
+            "url": "http://discord.gg/Gcr9Dk6qKk"
+          }
+        ]
+      },
+      "content": {
+        "title": "objkt talks to: Chepertom",
+        "description": "I like this idea to use the weaknesses of your medium to show that it’s not undestructable, that it’s really fragile, that it can be attacked, corrupted.",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Chepertom.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/objkt%20talks%20to_%20Chepertom.md"
+      }
+    },
+    {
+      "type": "Article",
       "tag": "Essay",
       "publisher": {
         "name": "Tyler Hobbs",
