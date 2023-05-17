@@ -26,7 +26,7 @@ It was kind of a weird journey where I started to lose interest in drawings and 
 
 I think there are a lot of people that are digging inside of these techniques that are really finding singular artifacts and singular ways of creating abstraction. It's really like a contemporary way of using the technology with its weaknesses to find a more singular version of the image that you see on the everyday life.
 
-![](https://hackmd.io/_uploads/Hyr1Lg-Sn.jpg)<caption>"Supply.ROW, Chepertom"</caption>
+![](https://hackmd.io/_uploads/Hyr1Lg-Sn.jpg)<caption>"Supply.ROW", Chepertom</caption>
 
 Sometimes I teach some other artists or even collectors how to do glitch. And one of my first advices is to make backups because if you corrupt the file and you play with it, it's cool. But if you don't make backups as soon as you corrupt it, it's really hard sometimes to go back in time and to get the original version again. It's going to be like a real pain in the ass if you want to do this.
 
