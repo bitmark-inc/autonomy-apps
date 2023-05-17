@@ -26,7 +26,7 @@ It was kind of a weird journey where I started to lose interest in drawings and 
 
 I think there are a lot of people that are digging inside of these techniques that are really finding singular artifacts and singular ways of creating abstraction. It's really like a contemporary way of using the technology with its weaknesses to find a more singular version of the image that you see on the everyday life.
 
-![](https://hackmd.io/_uploads/Hyr1Lg-Sn.jpg)<caption>"Supply.ROW", Chepertom</caption>
+![](https://hackmd.io/_uploads/Hyr1Lg-Sn.jpg)<caption>"[Supply.ROW](https://objkt.com/asset/KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton/707416)", Chepertom</caption>
 
 Sometimes I teach some other artists or even collectors how to do glitch. And one of my first advices is to make backups because if you corrupt the file and you play with it, it's cool. But if you don't make backups as soon as you corrupt it, it's really hard sometimes to go back in time and to get the original version again. It's going to be like a real pain in the ass if you want to do this.
 
@@ -34,7 +34,7 @@ If, for example, you've done data bending or destroying the data will always lea
 
 It's one of the feelings that is inspiring to me when I create, because it's one of the things I'm gravitating around, this idea of Entropy and destruction, loss and corruption in itself. I think it's a great reminder that, as I said before, nothing is eternal. When you get this sensation of loss, it's, I don't know, kind of a grieve in a way. It's always important for me to go back to that feeling, to understand what I'm really doing, when I erase things, when I curb them. And again, it's about being sincere because if you erase something and you still have a copy of it, it feels like you're a bit lying to yourself, to me, but it's just me, like it's the way I consider glitching.
 
-![](https://hackmd.io/_uploads/Byc9IeWSn.png)<caption>"Circuit_Bending_7.RAD", Chepertom</caption>
+![](https://hackmd.io/_uploads/Byc9IeWSn.png)<caption>"[Circuit_Bending_7.RAD",](https://objkt.com/asset/KT1No1Lc6oEKXzkbPz9eCUDSWB8sfdsY9NhL/2) Chepertom</caption>
 
 I think I didn't picture myself as a collector before starting to put my own work and sell them. And at the time it was just like super easy. You just get the credit to buy another work and you're just like close to other artists and at the time it was more of a bull market.
 
