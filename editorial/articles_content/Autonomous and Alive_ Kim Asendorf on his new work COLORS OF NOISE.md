@@ -34,7 +34,7 @@ I could have prerecorded or used any other tool to create these noises and just 
 
 ![](https://hackmd.io/_uploads/By200PzH3.png)<caption>Still from “COLORS OF NOISE” by Kim Asendorf</caption>
 
-**You built the system, but then the system runs on its own, almost creating the impression that the work is its own entity. The other interesting thing is that it forms something ephemeral, right? Since the algorithm won't repeat itself. **
+**You built the system, but then the system runs on its own, almost creating the impression that the work is its own entity. The other interesting thing is that it forms something ephemeral, right? Since the algorithm won't repeat itself.**
 
 Right, it’s not a recording, so it will not loop. But since noise is something quite steady in its appearance, it's more or less a steady stream. All the animations have also been designed to become a stream of, in this case, pixels, which are flowing up and down, but pretty steadily. Nonetheless, the details will never repeat exactly. 
 
