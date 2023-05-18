@@ -2,6 +2,38 @@
   "editorial": [
     {
       "type": "Article",
+      "tag": "Close-up",
+      "publisher": {
+        "name": "Feral File",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
+      },
+      "reference": {
+        "location": "Internet",
+        "website": "feralfile.com",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/feralfile"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/feralfile"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.gg/QVjjMzqzPJ"
+          }
+        ]
+      },
+      "content": {
+        "title": "Autonomous and Alive: Kim Asendorf on his new work COLORS OF NOISE",
+        "description": "The German visual artist speaks with curator Peggy Schoenegge about shades of noise, the role of the algorithm, and working with sound.",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Kim%20Asendorf.png",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Autonomous%20and%20Alive_%20Kim%20Asendorf%20on%20his%20new%20work%20COLORS%20OF%20NOISE.md"
+      }
+    },
+    {
+      "type": "Article",
       "tag": "Article",
       "publisher": {
         "name": "objkt",
