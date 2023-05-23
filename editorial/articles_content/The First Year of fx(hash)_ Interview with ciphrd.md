@@ -56,7 +56,7 @@ But on the other end, it creates sort of life for the platform based on if it's 
 
 But also, it helps the platform grow. In the future, I really want us to have a solid framework for this live minting events. I want to know what the friction is so that we can make it easier for people at events. When we introduced paid live minting at NFT Show Europe, there was a lot of friction because people did not necessarily have a wallet. So we thought, okay, how can we improve this, because long term we really want our platform to have tools so that people can set up their own live events. I feel this will be one of the most powerful ways to reach out to new audiences.
 
-![](https://hackmd.io/_uploads/Hk1cCgZS3.jpg)<caption>"[Garabatos](https://www.fxhash.xyz/generative/slug/garabatos)" by rudxane</caption>
+![](https://hackmd.io/_uploads/Hk1cCgZS3.jpg)<caption>"[Garabatos](https://www.fxhash.xyz/generative/slug/garabatos)", rudxane</caption>
 
 But yeah, it's been so tiring to travel this much. Next year is going to be way less, I think, because I want to focus a little bit more on myself and the platform.
 
