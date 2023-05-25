@@ -1,5 +1,37 @@
 {
   "editorial": [
+    {
+      "type": "Article",
+      "tag": "Announcement",
+      "publisher": {
+        "name": "Feral File",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/feralfile.png"
+      },
+      "reference": {
+        "location": "Internet",
+        "website": "feralfile.com",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/feralfile"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/feralfile"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.gg/QVjjMzqzPJ"
+          }
+        ]
+      },
+      "content": {
+        "title": "Introducing In/Visible, a group show examining the biases in AI",
+        "description": "In/Visible presents new work by ten Black artists that explore AI as a means to be known and seen, to tell their stories, and to hold space for humanity.",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/invisible.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Introducing%20In_Visible%2C%20a%20group%20show%20examining%20the%20biases%20in%20AI%2C%20curated%20by%20Linda%20Dounia%20Rebeiz.md"
+      }
+    },
      {
       "type": "Article",
       "tag": "Article",
