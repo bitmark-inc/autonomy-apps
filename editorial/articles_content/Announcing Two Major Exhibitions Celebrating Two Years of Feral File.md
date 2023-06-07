@@ -15,6 +15,7 @@ June 28, 2023
 In 2019, Casey REAS, Rick Silva, Addie Wagenknecht, and artist duo exonemo (SEMBO Kensuke and AKAIWA Yae) invited a group of artists to bring one editioned artwork to swap with each other over the course of a week. The experiment was called a2p, short for artist-to-peer network, and it became the basis for the structure and ethos of Feral File. Now, over two years since Feral File launched, The Experiment brings a2p back into focus, with Feral File’s first non-collectable exhibition.
 
 **The Experiment features works from:**
+
 Alan Butler, Andrew Benson, Auriea Harvey XLVIII, Émilie Brout & Maxime Marion, hiroyuki nisougi, Kim Asendorf, LaTurbo Avedon, Lee Blalock (L[3]^2), LIA, Morehshin Allahyari, Nicolas Sassoon, peter burr, Sabrina Ratté, Sara Ludy, Sarah Rara, shawné michaelain holloway, Tabor Robak, Theo Triantafyllidis, and Yoshi Sodeoka
 
 **Artwork preview:**
