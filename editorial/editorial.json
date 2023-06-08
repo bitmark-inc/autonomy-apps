@@ -1,5 +1,37 @@
 {
   "editorial": [
+     {
+      "type": "Article",
+      "tag": "Article",
+      "publisher": {
+        "name": "Right Click Save",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Right%20Click%20Save.jpg"
+      },
+      "reference": {
+        "location": "Internet",
+        "website": "rightclicksave.com",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/rtclick_save"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/right_clicksave"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.com/invite/SVdCsX2RTg"
+          }
+        ]
+      },
+      "content": {
+        "title": "What is the Future of Digital Fashion in Web3?",
+        "description": "With the fashion industry increasingly embracing the phygital, leading designers share their predictions with Ashumi Sanghvi",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/What%20is%20the%20Future%20of%20Digital%20Fashion%20in%20Web3.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/What%20is%20the%20Future%20of%20Digital%20Fashion%20in%20Web3_.md"
+      }
+    },
     {
       "type": "Article",
       "tag": "Announcement",
