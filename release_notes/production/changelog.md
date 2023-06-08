@@ -1,3 +1,25 @@
+[#] 0.41.0 - Jun 7, 2023
+
+This release focuses mainly on bug fixing and UI/UX improvements.
+
+### What's new
+
+- Improve language between import and link a wallet
+- Editorial: in-app notifier (badge) when a new article is published
+
+### Connect Dapp via Clipboard
+
+![image](https://github.com/bitmark-inc/autonomy-apps/assets/61187455/c9ccd3b2-d80e-4f94-a52e-44c1dfdbf1e0)
+
+Beforehand, it was difficult to connect to a Dapp using WalletConnect or Beacon wallet protocols when your Autonomy wallet was open on the same device.
+1. Now tap on the QR code displayed by WalletConnect or Beacon to copy it.
+2. Reach on Autonomy your wallet and the address you wanted to connect and open the connections list.
+This screen is listing all authorized connections with Dapps.
+3. In the top-right corner reach out the options menu, and tap on "Connect via Clipboard".
+4. Follow the next steps to grant permission.
+
+---
+
 [#] 0.40.0 - Apr 25, 2023
 
 This release focuses mainly on bug fixing and UI/UX improvements.
