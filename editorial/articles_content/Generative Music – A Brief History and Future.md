@@ -1,4 +1,4 @@
-# Generative Music - A Brief History and Future
+# Generative Music – A Brief History and Future
 
 This article was originally published on fxhash on October 31, 2022, by Erik-West.
 
