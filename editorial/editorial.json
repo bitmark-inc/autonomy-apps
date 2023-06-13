@@ -1,5 +1,37 @@
 {
   "editorial": [
+    {
+      "type": "Article",
+      "tag": "Article",
+      "publisher": {
+        "name": "fxhash",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/fxhash.png"
+      },
+      "reference": {
+        "location": "Internet",
+        "website": "fxhash.xyz",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/fx_hash_"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/fxhash"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.gg/fxhash"
+          }
+        ]
+      },
+      "content": {
+        "title": "Generative Music - A Brief History and Future",
+        "description": "We know that generative art has a rich history, but what of generative music?",
+        "thumbnail_url": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Generative%20Music%20-%20A%20Brief%20History%20and%20Future.jpg",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Generative%20Music%20–%20A%20Brief%20History%20and%20Future.md"
+      }
+    },
      {
       "type": "Article",
       "tag": "Article",
