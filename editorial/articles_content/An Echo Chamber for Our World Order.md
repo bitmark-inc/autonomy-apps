@@ -16,7 +16,7 @@ Curator Linda Dounia Rebeiz asked the artists in this exhibition about what moti
 
 ![](https://hackmd.io/_uploads/B1T4TZDvh.jpg)<caption>“[UNTITLED](https://feralfile.com/artworks/untitled-lpa?fromExhibition=in-visible-419)” by Arclight</caption>
 
-“Working with AI to create a Black presenting body is always a challenge for me. I also have concerns about the source of the images used in its training. This is why in my work, I only use it to generate an additional layer of materials for my collages. I make AI-generated variations of my work and iterate on them further to get the results I am looking for. The piece that I have contributed to this exhibition is a collage of DALL•E’s interpretations of seven artworks from my archives. I have come to love working with AI in this way because it brings new dimensions to my pieces and more material to work with.” –Arclight
+“Working with AI to create a Black presenting body is always a challenge for me. I also have concerns about the source of the images used in its training. This is why in my work, I only use it to generate an additional layer of materials for my collages. I make AI-generated variations of my work and iterate on them further to get the results I am looking for. The piece that I have contributed to this exhibition is a collage of DALL•E’s interpretations of seven artworks from my archives. I have come to love working with AI in this way because it brings new dimensions to my pieces and more material to work with.” – Arclight
 
 ![](https://hackmd.io/_uploads/ryvkAbwDn.jpg)<caption>“[Proof of Spirit — Act II](https://feralfile.com/artworks/proof-of-spirit-act-ii-jtq?fromExhibition=in-visible-419), #36” by AFROSCOPE</caption>
 
