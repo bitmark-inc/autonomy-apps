@@ -34,13 +34,13 @@ Curator Linda Dounia Rebeiz asked the artists in this exhibition about what moti
 
 “I find that AI struggles to distinguish between different African ethnicities. To be honest, I have still not found AI to be of much use or in alignment with my work. I am strict in how I use it as a result. I am not sure how my relationship with AI will change in the future, but since I use a lot of photographic references in my work, I would love to use AI to help generate 3D models from my photographs. It would allow me more time to work on my compositions.” – Rayan Elnayal 
 
-![](https://hackmd.io/_uploads/HJB5ezDD2.jpg)<caption>"[Summer Edition](https://feralfile.com/artworks/summer-edition-sti?fromExhibition=in-visible-419), #24 by Zoe Osborne"</caption>
+![](https://hackmd.io/_uploads/HJB5ezDD2.jpg)<caption>"[Summer Edition](https://feralfile.com/artworks/summer-edition-sti?fromExhibition=in-visible-419), #24" by Zoe Osborne</caption>
 
 “I have always been curious about AI’s understanding of Caribbean identity and its limitations. I wondered if it could be taught to understand cultural nuance. At first, it felt as though I was fighting with AI. Getting it to portray different ethnicities and unique characteristics of people in the Caribbean was a challenge. The more prompts I created, the more apparent the bias in AI’s database became. At some point, I even got angry and offended. 
 
 “I did, however, eventually find my voice by thinking about what images AI might be pulling from. I used a lot of blending and fine-tuning to get the results and details in the Summer Edition collection. Moving forward, I would like to explore how I can train AI to reduce its limited perception of race and culture, especially as it relates to the Caribbean. I think it would be an interesting tool to explore the idea of Caribbean Futurism.” – Zoe Osborne
 
-![](https://hackmd.io/_uploads/Hk8xWzvD3.jpg)<caption>"[Confetti](https://feralfile.com/artworks/confetti-fo3?fromExhibition=in-visible-419), #47 by Nygilia"</caption>
+![](https://hackmd.io/_uploads/Hk8xWzvD3.jpg)<caption>"[Confetti](https://feralfile.com/artworks/confetti-fo3?fromExhibition=in-visible-419), #47" by Nygilia</caption>
 
 “When I started incorporating AI into my practice, I wanted to use it as a storytelling tool to share my cultural heritage. When a new tool emerges, I think it’s vital to surface its positive applications. It’s been an enriching and engrossing journey that has allowed me to explore a variety of artistic styles, and I am just getting started.” – Nygilia 
 
