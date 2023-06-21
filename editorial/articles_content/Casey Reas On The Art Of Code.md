@@ -4,8 +4,7 @@
 
 This article was originally published on September 27, 2022.
 
-![image](https://github.com/bitmark-inc/autonomy-apps/assets/61187455/cea5094c-8250-4b8d-8571-1ee8dfcc1303)
-<caption>Credit: Casey Reas, Process Compendium (detail), 2010. Courtesy of the artist</caption>
+![image](https://github.com/bitmark-inc/autonomy-apps/assets/61187455/cea5094c-8250-4b8d-8571-1ee8dfcc1303)<caption>Credit: Casey Reas, Process Compendium (detail), 2010. Courtesy of the artist</caption>
 
 A new exhibition on Feral File titled, “[Ecotone](https://feralfile.com/exhibitions/ecotone-swo),” celebrates the emerging digital geography in which artists and engineers increasingly collaborate. Feral File’s co-creator, Casey Reas, has done more than most to shape this new paradigm of hybrid creativity. A Professor of Design Media Arts at UCLA, Reas is also the co-founder of [Processing](https://processing.org/) — an open-source programming language and environment that has spawned a generation of creative coders. Here, he shares his thoughts on code, community, and the new media ecology with Stina Gustafsson.
 
