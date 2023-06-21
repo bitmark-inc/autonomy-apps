@@ -1,0 +1,22 @@
+[
+  {
+    "id": "yRlwOdCK7Ho",
+    "title": "What's new in Dart and Flutter",
+    "description": "Learn the latest from Dart and Flutter, including how they enable you to  build beautiful native apps for any platform."
+  },
+  {
+    "id": "q4x2G_9-Mu0",
+    "title": "Draggable (Widget of the Week)",
+    "description": "Draggable to move and drag your widgets around. You can use it to build UIs for things like swapping around email addresses in an email or moving documents to a new folder."
+  },
+  {
+    "id": "cq34RWXegM8",
+    "title": "How to build a RenderObject",
+    "description": "In this episode, go behind the scenes with RenderObjects and learn when, why, and how to write your own."
+  },
+  {
+    "id": "OpcPZdfJbq8",
+    "title": "Building custom fragment shaders",
+    "description": "Learn how to build a custom fragment shader, from GLSL code to the widgets that connect it to the rest of your Flutter app."
+  }
+]
