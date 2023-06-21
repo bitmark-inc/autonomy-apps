@@ -1,6 +1,5 @@
 {
   "editorial": [
-
     {
       "type": "Article",
       "tag": "Article",
@@ -30,11 +29,9 @@
         "title": "Casey Reas On The Art Of Code",
         "description": "The artist and co-founder of Feral File speaks to Stina Gustafsson about art in the age of hybrid creativity",
         "thumbnail_url": "https://github.com/bitmark-inc/autonomy-apps/blob/develop/editorial/thumbnails/Casey%20Reas%20On%20the%20Art%20Of%20Code.jpg?raw=true",
-        "data": "https://github.com/bitmark-inc/autonomy-apps/tree/develop/editorial/articles_content#:~:text=Casey%20Reas%20On%20The%20Art%20Of%20Code.md"
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Casey%20Reas%20On%20The%20Art%20Of%20Code.md"
       }
     },
-
-    
     {
       "type": "Article",
       "tag": "Close-up",
