@@ -4,6 +4,38 @@
       "type": "Article",
       "tag": "Article",
       "publisher": {
+        "name": "Art Blocks",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Art%20Blocks%20logo.jpg"
+      },
+      "reference": {
+        "location": "Internet",
+        "website": "artblocks.io",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/artblocks_io"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/artblocks_io"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.com/invite/artblocks"
+          }
+        ]
+      },
+      "content": {
+        "title": "In Conversation with Kim Asendorf on Cargo",
+        "description": "Art Blocks interviews the German visual artist.",
+        "thumbnail_url": "https://github.com/bitmark-inc/autonomy-apps/blob/develop/editorial/thumbnails/Art%20Blocks%20Kim.jpg?raw=true",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/In%20Conversation%20with%20Kim%20Asendorf%20on%20Cargo.md"
+      }
+    },
+    {
+      "type": "Article",
+      "tag": "Article",
+      "publisher": {
         "name": "Right Click Save",
         "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Right%20Click%20Save.jpg"
       },
