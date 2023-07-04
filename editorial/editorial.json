@@ -9,7 +9,7 @@
       },
       "reference": {
         "location": "Internet",
-        "website": "https://www.artblocks.io",
+        "website": "artblocks.io",
         "socials": [
           {
             "name": "Twitter",
@@ -26,10 +26,10 @@
         ]
       },
       "content": {
-        "title": "In Conversation with Kim Asendorf on Cargo",
-        "description": "Art Blocks interviews the German visual artist about his project Cargo.",
-        "thumbnail_url": "https://github.com/bitmark-inc/autonomy-apps/blob/develop/editorial/thumbnails/Art%20Blocks%20Kim.jpg",
-        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/In%20Conversation%20with%20Kim%20Asendorf%20on%20Cargo.md"
+        "title": "Casey Reas On The Art Of Code",
+        "description": "The artist and co-founder of Feral File speaks to Stina Gustafsson about art in the age of hybrid creativity.",
+        "thumbnail_url": "https://github.com/bitmark-inc/autonomy-apps/blob/develop/editorial/thumbnails/Casey-Reas-On-the-Art-Of-Code.jpg?raw=true",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Casey%20Reas%20On%20The%20Art%20Of%20Code.md"
       }
     },
     {
