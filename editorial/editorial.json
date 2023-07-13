@@ -7,7 +7,6 @@
         "name": "Art Blocks",
         "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Art%20Blocks%20logo.jpg"
         "publication_id": "",
-        "url": ""
         
       },
       "reference": {
@@ -33,6 +32,7 @@
         "description": "Art Blocks interviews the German visual artist.",
         "thumbnail_url": "https://github.com/bitmark-inc/autonomy-apps/blob/develop/editorial/thumbnails/Art%20Blocks%20Kim.jpg?raw=true",
         "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/In%20Conversation%20with%20Kim%20Asendorf%20on%20Cargo.md"
+        "url": ""
       }
     },
     {
