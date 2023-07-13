@@ -6,6 +6,9 @@
       "publisher": {
         "name": "Art Blocks",
         "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Art%20Blocks%20logo.jpg"
+        "publication_id": "",
+        "url": ""
+        
       },
       "reference": {
         "location": "Internet",
