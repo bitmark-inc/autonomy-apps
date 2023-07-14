@@ -5,7 +5,7 @@
       "tag": "Shorts",
       "publisher": {
         "name": "Le Random",
-        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/LeRandom.png"
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/LeRandom.png",
         "publication_id": "",
         
       },
@@ -32,7 +32,7 @@
       "tag": "Article",
       "publisher": {
         "name": "Art Blocks",
-        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Art%20Blocks%20logo.jpg"
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Art%20Blocks%20logo.jpg",
         "publication_id": "",
         
       },
