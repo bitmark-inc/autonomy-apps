@@ -2,6 +2,68 @@
   "editorial": [  
     {
       "type": "Article",
+      "tag": "Shorts",
+      "publisher": {
+        "name": "Le Random",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/LeRandom.png",
+        "publication_id": ""
+        
+      },
+      "reference": {
+        "location": "Internet",
+        "website": "lerandom.art",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/lerandomart"
+          }
+        ]
+      },
+      "content": {
+        "title": "Sonia Landy Sheridan: Expanding the artist's toolkit",
+        "description": "Sheridan believed that art, science and technology function as interwoven systems. Her life’s work was to explore their aesthetic potential.",
+        "thumbnail_url": "https://github.com/bitmark-inc/autonomy-apps/blob/develop/editorial/thumbnails/Sonia%20Landy%20Sheridan.jpg?raw=true",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/Sonia%20Landy%20Sheridan_%20Expanding%20the%20artist's%20toolkit.md",
+        "url": ""
+      }
+    },
+    {
+      "type": "Article",
+      "tag": "Article",
+      "publisher": {
+        "name": "Art Blocks",
+        "icon": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/thumbnails/Art%20Blocks%20logo.jpg",
+        "publication_id": ""
+        
+      },
+      "reference": {
+        "location": "Internet",
+        "website": "artblocks.io",
+        "socials": [
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/artblocks_io"
+          },
+          {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/artblocks_io"
+          },
+          {
+            "name": "Discord",
+            "url": "https://discord.com/invite/artblocks"
+          }
+        ]
+      },
+      "content": {
+        "title": "In Conversation with Kim Asendorf on Cargo",
+        "description": "Art Blocks interviews the German visual artist.",
+        "thumbnail_url": "https://github.com/bitmark-inc/autonomy-apps/blob/develop/editorial/thumbnails/Art%20Blocks%20Kim.jpg?raw=true",
+        "data": "https://raw.githubusercontent.com/bitmark-inc/autonomy-apps/develop/editorial/articles_content/In%20Conversation%20with%20Kim%20Asendorf%20on%20Cargo.md",
+        "url": ""
+      }
+    },
+    {
+      "type": "Article",
       "tag": "Article",
       "publisher": {
         "name": "Right Click Save",
