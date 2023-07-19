@@ -1,4 +1,4 @@
-### Exploring the Super Rare NFT marketplace and its impact on the digital art industry
+### Exploring the SuperRare NFT marketplace and its impact on the digital art industry
 
 In the world of digital art and collectibles, [SuperRare](https://superrare.com/) stands out as an exclusive marketplace, offering a unique and highly sought-after experience for both artists and collectors. The super Rare NFT marketplace was founded in 2017 by John Crain, Charles Crain, and Johnathan Perkins. And it has quickly become a prominent player in the NFT ecosystem.
 
