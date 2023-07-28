@@ -2,7 +2,6 @@
 
 ### Access artwork listings on marketplaces
 - We made discovering and collecting artworks more seamless. You can now access marketplace listings to artworks from your Discover feed and artwork pages without leaving Autonomy.
-- We made it easier to add and name addresses, helping you to keep these organized.
 - Various interface improvements were also made.
 
 ---
