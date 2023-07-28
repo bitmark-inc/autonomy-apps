@@ -1,3 +1,12 @@
+[#] 0.43.0 - Jul 28, 2023
+
+### Access artwork listings on marketplaces
+- We made discovering and collecting artworks more seamless. You can now access marketplace listings to artworks from your Discover feed and artwork pages without leaving Autonomy.
+- We made it easier to add and name addresses, helping you to keep these organized.
+- Various interface improvements were also made.
+
+---
+
 [#] 0.42.2 - Jul 1, 2023
 
 In this release, our main focus has been on enhancing the presentation of the address portfolio, as well as improving the backup and recovery phrase features.
