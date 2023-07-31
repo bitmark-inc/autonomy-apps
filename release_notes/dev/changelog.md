@@ -1,3 +1,12 @@
+[#] 0.43.0 - Jul 28, 2023
+
+### Access artwork listings on marketplaces
+- We made discovering and collecting artworks more seamless. You can now access marketplace listings to artworks from your Discover feed and artwork pages without leaving Autonomy.
+- We made it easier to add and name addresses, helping you to keep these organized.
+- Various interface improvements were also made.
+
+---
+
 [#] 0.39.2 - Dec 12, 2022
 
 Introduction paragraph not mandatory. Lorem ipsum dolor sit amet consectetur. Nulla enim sagittis erat in vitae dolor sit dignissim diam.
