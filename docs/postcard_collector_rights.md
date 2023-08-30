@@ -1,3 +1,8 @@
+**Postcard Terms and Conditions.**
+
+By minting a postcard, you agree to the [MoMA's Terms and Conditions]().
+
+---
 **Download the work.**
 
 As a collector, you’ll have access to a permanent link where you can download the work’s original, full-resolution files and technical details.
