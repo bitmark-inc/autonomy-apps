@@ -1,3 +1,17 @@
+[#] 0.44.0 - August 30, 2023
+
+Expanding Pro, casting and discovery
+
+This release we’re introducing a number of features to Autonomy Pro, artwork casting, and the discovery feed. Here’s a rundown:
+- As an Autonomy Pro subscriber, you can now sort, filter and search your artworks, making it easier to organize and find pieces.
+- As a Pro user, you’ll now also be able to cast collections (playlists) you create to externals screens, like TVs and projectors.
+- Casting single artworks is now available to all Autonomy users. Just tap the cast icon on an artwork in your collection to get started.
+
+Autonomy is a discovery engine for new digital art. We don’t use algorithms to determine what we show you – instead, we look at the artists you collect, the works they’ve made or minted and the works they’ve collected themselves to surface items in your feed.
+- Starting this release, you’ll have the ability to add and remove specific wallet addresses in your feed, giving you more control in browsing onchain culture.
+
+---
+
 [#] 0.43.0 - Jul 28, 2023
 
 ### Access artwork listings on marketplaces
