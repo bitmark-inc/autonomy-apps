@@ -10,7 +10,7 @@ If you are acting on behalf of an entity, such as a non-profit organization, inc
 
 These Terms void where prohibited by law, and the right to access the Postcard Service is revoked in such jurisdictions.
 
-## Postcard Service Basics**
+## Postcard Service Basics
 
 The Postcard Service consists of the following features and functions:
 
