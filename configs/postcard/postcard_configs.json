@@ -15,6 +15,7 @@
     "glossary": true,
     "metadata": true,
     "token_ownership": true,
+    "provenance": true,
     "rights": true,
     "chat": true
   },
