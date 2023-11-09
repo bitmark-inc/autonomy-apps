@@ -1,0 +1,20 @@
+{
+  "merchandise": {
+    "enable": true,
+    "allow_view_only": true,
+    "must_completed": true
+  },
+  "pay_to_mint": {
+    "enable": true,
+    "allow_view_only": true
+  },
+  "view_detail" : {
+    "action_button": true,
+    "leader_board": true,
+    "about_moma": true,
+    "glossary": true,
+    "metadata": true,
+    "token_ownership": true,
+    "rights": true
+  }
+}
