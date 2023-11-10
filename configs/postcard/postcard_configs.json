@@ -1,6 +1,6 @@
 {
   "merchandise": {
-    "enable": true,
+    "enable": false,
     "allow_view_only": true,
     "must_complete": true
   },
