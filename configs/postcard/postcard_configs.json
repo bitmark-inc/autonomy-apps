@@ -21,7 +21,7 @@
   },
   "feature": {
     "download_stamp": true,
-    "download_postcard": true
+    "download_postcard": false
   },
   "postcard_action": {
     "wait_confirmed_to_send": false
