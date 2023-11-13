@@ -17,7 +17,7 @@
     "token_ownership": true,
     "provenance": true,
     "rights": true,
-    "chat": false,
+    "chat": false
   },
   "feature": {
     "download_stamp": true,
