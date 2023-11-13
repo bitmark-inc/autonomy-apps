@@ -13,7 +13,7 @@
     "leader_board": true,
     "about_moma": true,
     "glossary": true,
-    "metadata": false,
+    "metadata": true,
     "token_ownership": true,
     "provenance": true,
     "rights": true,
