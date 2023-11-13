@@ -10,7 +10,7 @@
   },
   "view_detail": {
     "action_button": true,
-    "leader_board": true,
+    "leader_board": false,
     "about_moma": true,
     "glossary": true,
     "metadata": true,
