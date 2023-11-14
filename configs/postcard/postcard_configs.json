@@ -11,7 +11,7 @@
   "view_detail": {
     "action_button": true,
     "leader_board": true,
-    "about_moma": false,
+    "about_moma": true,
     "glossary": true,
     "metadata": true,
     "token_ownership": true,
