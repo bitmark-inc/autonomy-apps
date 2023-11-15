@@ -24,6 +24,6 @@
     "download_postcard": true
   },
   "postcard_action": {
-    "wait_confirmed_to_send": false
+    "wait_confirmed_to_send": true
   }
 }
