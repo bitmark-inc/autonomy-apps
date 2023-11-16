@@ -5,7 +5,7 @@
     "must_complete": true
   },
   "pay_to_mint": {
-    "enable": false,
+    "enable": true,
     "allow_view_only": true
   },
   "view_detail": {
