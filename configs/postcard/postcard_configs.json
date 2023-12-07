@@ -2,7 +2,7 @@
   "merchandise": {
     "enable": true,
     "allow_view_only": true,
-    "must_complete": false
+    "must_complete": true
   },
   "pay_to_mint": {
     "enable": true,
