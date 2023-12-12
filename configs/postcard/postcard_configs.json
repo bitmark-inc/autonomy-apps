@@ -1,7 +1,7 @@
 {
   "merchandise": {
     "enable": true,
-    "allow_view_only": false,
+    "allow_view_only": true,
     "must_complete": true
   },
   "pay_to_mint": {
