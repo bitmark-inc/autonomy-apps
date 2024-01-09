@@ -6,7 +6,7 @@ You have the right to display the postcard both privately and publicly.
 ---
 **Be assured of the postcard’s authenticity.**
 
-Autonomy guarantees the provenance of every stamp using a public blockchain.
+Feral File app (formerly Autonomy) guarantees the provenance of every stamp using a public blockchain.
 
 ---
 **Loan or lease the postcard.**
@@ -16,7 +16,7 @@ You may grant others the temporary right to display the postcard.
 ---
 **Resell or transfer the postcard.**
 
-You are entitled to transfer your rights to the postcard to another entity. Keep in mind that if you resell or otherwise receive compensation for the transfer (or loss) of the postcard, MoMA must be paid 7.5% and Autonomy 7.5% of the amount you receive.
+You are entitled to transfer your rights to the postcard to another entity. Keep in mind that if you resell or otherwise receive compensation for the transfer (or loss) of the postcard, MoMA must be paid 7.5% and Feral File app 7.5% of the amount you receive.
 
 ---
 **Remain anonymous.**

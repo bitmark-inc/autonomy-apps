@@ -1,8 +1,8 @@
-# Autonomy MoMA Postcard Service and Privacy Terms
+# Feral File (formerly Autonomy) MoMA Postcard Service and Privacy Terms
 
-_Last modified on November 15, 2023._
+_Last modified on January 11, 2024._
 
-These Postcard Service and Privacy Terms (these “Terms”) governs your use of and access to the collaborative digital postcard creation and distribution service (“Postcard Service” as described in more detail below) and the associated virtual chat room (“Postcard Service”) provided by Bitmark Inc. (“Bitmark”, “we”, “us”, “our”) through Bitmark’s Autonomy mobile application (the “Application”) to participants in the Postcard Service (“users”, “you”, “your”), and sponsored by The Museum of Modern Art (“MoMA”).  **_These Terms are different from the terms applicable to the use of the Application as a digital wallet, and do not change the terms applicable to such use of the Application._**
+These Postcard Service and Privacy Terms (these “Terms”) governs your use of and access to the collaborative digital postcard creation and distribution service (“Postcard Service” as described in more detail below) and the associated virtual chat room (“Postcard Service”) provided by Bitmark Inc. (“Bitmark”, “we”, “us”, “our”) through Bitmark’s Feral File mobile application (the “Application”) to participants in the Postcard Service (“users”, “you”, “your”), and sponsored by The Museum of Modern Art (“MoMA”).  **_These Terms are different from the terms applicable to the use of the Application as a digital wallet, and do not change the terms applicable to such use of the Application._**
 
 Please read these Terms carefully before accessing or using any element of the Postcard Service.  Each time you access or use the Postcard Service, you agree to be bound by these Terms. If you do not agree to be bound by these Terms, you should not access or use the Postcard Service. 
 
@@ -24,9 +24,9 @@ We may charge you to issue or mint NFT Postcards an amount we determine from tim
 
 ## Personal Information
 
-The provisions of these Terms regarding personal information are supplemental to the standard [Autonomy Privacy Policy](https://github.com/bitmark-inc/autonomy.io/blob/main/apps/docs/privacy.md). The Postcard Service is part of the “Services” for the purposes of the standard Autonomy Privacy Policy and the standard Autonomy Privacy Policy will continue to apply, except to the limited extent these Terms are different regarding the collection and processing of personal information with respect to the Postcard Service.  
+The provisions of these Terms regarding personal information are supplemental to the standard [Feral File app Privacy Policy](https://github.com/bitmark-inc/autonomy.io/blob/main/apps/docs/privacy.md). The Postcard Service is part of the “Services” for the purposes of the standard Feral File app Privacy Policy and the standard Feral File app Privacy Policy will continue to apply, except to the limited extent these Terms are different regarding the collection and processing of personal information with respect to the Postcard Service.  
 
-* While using the Application as a digital wallet, we collect and/or process a minimal amount of personal information, as indicated in the standard Autonomy Privacy Policy.  Also as indicated in the standard Autonomy Privacy Policy, the Application interfaces with public blockchains, where information is permanently and irrevocably public by design.
+* While using the Application as a digital wallet, we collect and/or process a minimal amount of personal information, as indicated in the standard Feral File app Privacy Policy.  Also as indicated in the standard Feral File app Privacy Policy, the Application interfaces with public blockchains, where information is permanently and irrevocably public by design.
   
 * The use of the Postcard Service requires that we collect and/or process more personal information than the use of the Application as a digital wallet.  We collect and process the following personal information in order to provide the Postcard Service:
 
@@ -46,7 +46,7 @@ The provisions of these Terms regarding personal information are supplemental to
 
 * Any personal information you may volunteer in your design for the Postcard. This information will be available through the public blockchain and so is permanently and irrevocably public by design.
 
-In addition to the uses of personal information stated in the standard Autonomy Privacy Policy, we will use the personal information above to provide you with the Postcard Service.  Please note that the elements of the personal information you provide above may be linked to each other in connection with the use of the Postcard Service, but we will not link or correlate this information to other information collected and stored in the Application, our other Services, or collected through our Website. 
+In addition to the uses of personal information stated in the standard Feral File app Privacy Policy, we will use the personal information above to provide you with the Postcard Service.  Please note that the elements of the personal information you provide above may be linked to each other in connection with the use of the Postcard Service, but we will not link or correlate this information to other information collected and stored in the Application, our other Services, or collected through our Website. 
 
 We may engage other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, our agents and service providers will not have any right to use the Personal Information we share with them beyond what is necessary to assist us in fulfilling your request.
 
@@ -98,7 +98,7 @@ You are responsible for all of your activity in connection with the Postcard Ser
 
 ## Pricing and Purchases
 
-Prices for Merchandise and for issuing NFT Postcards will be stated within Autonomy. All prices are in U.S. dollars. Prices and Merchandise may change at Bitmark's discretion. 
+Prices for Merchandise and for issuing NFT Postcards will be stated within Feral File app. All prices are in U.S. dollars. Prices and Merchandise may change at Bitmark's discretion. 
 
 You are responsible for paying any and all applicable sales taxes, use taxes, GST, VAT, customs duties or other taxes or levies associated with your purchase, whether or not we calculate such amounts and add them to the total to be paid for your purchase.
 
@@ -112,7 +112,7 @@ We reserve the right, for any reason in our sole and unfettered discretion, to l
 
 At checkout, we offer you a range of shipping options to create your own shipping quote. You are responsible for payment of the shipping charges as part of the total payment for your purchase based on the shipping option you select.
 
-The best way to request a Merchandise return is to contact us using the messaging function of Autonomy.  You may also contact us at support@bitmark.com to request a Merchandise return. You must make this request within 30 days of receiving the shipment. Be sure to specify the reason for the return request in your message and indicate any preference for replacement (whether exchanging for an identical product or selecting an alternate style, size or color), or a refund.  Provide an image of the damage or defect if possible.  
+The best way to request a Merchandise return is to contact us using the messaging function of Feral File app.  You may also contact us at support@bitmark.com to request a Merchandise return. You must make this request within 30 days of receiving the shipment. Be sure to specify the reason for the return request in your message and indicate any preference for replacement (whether exchanging for an identical product or selecting an alternate style, size or color), or a refund.  Provide an image of the damage or defect if possible.  
 
 Bitmark will provide a prepaid return shipping label in cases where it can confirm that items have arrived in damaged condition or are defective.  For all other cases, return shipping costs are the responsibility of the customer.
 
@@ -142,4 +142,4 @@ _Governing Law; Jurisdiction_. These Terms shall be governed by and construed in
 
 ## Contact
 
-If you have any questions, complaints, or claims with respect to the Postcard Service, you may contact us using the messaging function of Autonomy.
+If you have any questions, complaints, or claims with respect to the Postcard Service, you may contact us using the messaging function of Feral File app.
