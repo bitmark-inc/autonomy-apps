@@ -43,7 +43,7 @@ This release focuses mainly on bug fixing and UI/UX improvements.
 
 ![image](https://github.com/bitmark-inc/autonomy-apps/assets/61187455/c9ccd3b2-d80e-4f94-a52e-44c1dfdbf1e0)
 
-Beforehand, it was difficult to connect to a Dapp using WalletConnect or Beacon wallet protocols when your Feral File app wallet was open on the same device.
+Beforehand, it was difficult to connect to a Dapp using WalletConnect or Beacon wallet protocols when your Feral File wallet was open on the same device.
 1. Now tap on the QR code displayed by WalletConnect or Beacon to copy it.
 2. Reach on Feral File app your wallet and the address you wanted to connect and open the connections list.
 This screen is listing all authorized connections with Dapps.
