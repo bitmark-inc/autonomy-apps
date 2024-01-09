@@ -1,7 +1,7 @@
 [#] 0.43.0 - Jul 28, 2023
 
 ### Access artwork listings on marketplaces
-- We made discovering and collecting artworks more seamless. You can now access marketplace listings to artworks from your Discover feed and artwork pages without leaving Autonomy.
+- We made discovering and collecting artworks more seamless. You can now access marketplace listings to artworks from your Discover feed and artwork pages without leaving Feral File app.
 - Various interface improvements were also made.
 
 ---
@@ -14,9 +14,9 @@ In this release, our main focus has been on enhancing the presentation of the ad
 
 ### Introducing Improvements to Address Management
 
-- Experience a sleek and simplified address management interface in Autonomy! We have made it easier than ever with a seamless list of addresses you've added. Whether you create, import, or view-only, it's all conveniently located in one place.
+- Experience a sleek and simplified address management interface in Feral File app! We have made it easier than ever with a seamless list of addresses you've added. Whether you create, import, or view-only, it's all conveniently located in one place.
 - Need to find your recovery phrase? Now you can easily locate it for created or imported addresses within the address details.
-- You can now effortlessly view the collection of any existing addresses within Autonomy by simply pasting the address. These addresses will be clearly labeled as "view-only."
+- You can now effortlessly view the collection of any existing addresses within Feral File app by simply pasting the address. These addresses will be clearly labeled as "view-only."
 - Please note that signing into dApps with linked wallets is no longer supported.
 
   
@@ -43,9 +43,9 @@ This release focuses mainly on bug fixing and UI/UX improvements.
 
 ![image](https://github.com/bitmark-inc/autonomy-apps/assets/61187455/c9ccd3b2-d80e-4f94-a52e-44c1dfdbf1e0)
 
-Beforehand, it was difficult to connect to a Dapp using WalletConnect or Beacon wallet protocols when your Autonomy wallet was open on the same device.
+Beforehand, it was difficult to connect to a Dapp using WalletConnect or Beacon wallet protocols when your Feral File app wallet was open on the same device.
 1. Now tap on the QR code displayed by WalletConnect or Beacon to copy it.
-2. Reach on Autonomy your wallet and the address you wanted to connect and open the connections list.
+2. Reach on Feral File app your wallet and the address you wanted to connect and open the connections list.
 This screen is listing all authorized connections with Dapps.
 3. In the top-right corner reach out the options menu, and tap on "Connect via Clipboard".
 4. Follow the next steps to grant permission.
@@ -83,7 +83,7 @@ This release is mainly optimizations and UI/collection performance improvements.
 
 ## Editorial
 
-Autonomy is adding a feed of exhibitions and articles we think you will find interesting. In our first release, we are working with [Kaloh](https://www.kaloh.xyz) to include posts from his newsletter, [Tyler Hobbs](https://tylerxhobbs.com/about) to include his essays, and [Feral File](https://feralfile.com/exhibitions) to highlight exhibitions. 
+Feral File app is adding a feed of exhibitions and articles we think you will find interesting. In our first release, we are working with [Kaloh](https://www.kaloh.xyz) to include posts from his newsletter, [Tyler Hobbs](https://tylerxhobbs.com/about) to include his essays, and [Feral File](https://feralfile.com/exhibitions) to highlight exhibitions. 
 
 Other improvements
 * Improvements to our NFT indexer
