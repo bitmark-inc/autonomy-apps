@@ -1,21 +1,23 @@
-**Why does Feral File app (formerly Autonomy) collect usage data?**
+**Why does Feral File collect usage data?**
 
-We collect usage data to improve Feral File app’s user experience and performance. Since we can’t (and definitely don’t want to) look over anyone’s shoulders to see what they’re doing, the usage data provides an anonymous way for you to contribute to making Feral File app better. 
+We collect usage data to improve the Feral File app’s user experience and performance. Since we can’t (and definitely don’t want to) look over anyone’s shoulders to see what they’re doing, the usage data provides an anonymous way for you to contribute to making the Feral File app better.
 
-**How does Feral File app protect my privacy while still collecting usage data?**
+**How does Feral File protect my privacy while still collecting usage data?**
 
-Feral File app sets a new standard for protecting the privacy of any usage data you contribute. As far as we know, no other app or crypto wallet does as much to conceal your privacy. 
-If you opt in to sending us usage data, the mobile app will mask your identity and device UUID by hashing them locally on your device before uploading them to our analytics server. The final output of the hashing function is an essentially random string of numbers and letters that  cannot be reversed to reveal any information about you, your device, or any of your accounts. The hashes function as anonymous identifiers that helps us understand how you're using Feral File app without revealing anything about who you are. 
+The Feral File app sets a new standard for protecting the privacy of any usage data you contribute. As far as we know, no other app or crypto wallet does as much to conceal your privacy. If you opt in to sending us usage data, the mobile app will mask your identity and device UUID by hashing them locally on your device before uploading them to our analytics server. The final output of the hashing function is an essentially random string of numbers and letters that cannot be reversed to reveal any information about you, your device, or any of your accounts. The hashes function as anonymous identifiers that help us understand how you’re using the Feral File app without revealing anything about who you are.
 
 Here’s an example of such a hash:
+
+
 ```
 f0c63b1c38cfb46ddca43c02a0b1b29808f3747bc6c7bc399848de7e602b96b1
 ```
 
-Anytime you use one of Feral File app’s main features, such as linking with an external wallet account, your mobile app will anonymously send a message to our analytics server that logs the general type of action and any relevant details. 
-Here’s an example of a log message for linking to an external account: 
 
-```json
+Anytime you use one of the Feral File app’s main features, such as linking with an external wallet account, your mobile app will anonymously send a message to our analytics server that logs the general type of action and any relevant details. Here’s an example of a log message for linking to an external account:
+
+
+```
 {
   "name":"link_feralfile",
   "user_id":"d593d496d6f3dccb8abb51ac7bf627f985a89595a73e037ecc6c80bd",
@@ -30,20 +32,17 @@ Here’s an example of a log message for linking to an external account:
 }
 ```
 
+
 The only reason for hashing your identities is that it helps us identify when the same person is repeatedly trying to accomplish the same action in a short period of time. This is important because it is usually a red flag that we need to fix something. For example, if we notice that you tried to add the same wallet connection repeatedly over the course of a few minutes, it’s a big red flag to us that there’s something that we need to review and fix in the wallet linking process.
 
 **What kinds of usage data are contributed?**
 
-Feral File app currently logs usage data for the following actions: 
-- Creating a wallet account
-- Linking to an external wallet account
-- Submitting the user survey
-- General measures of usage time
+the Feral File app currently logs usage data for the following actions: - Creating a wallet account - Linking to an external wallet account - Submitting the user survey - General measures of usage time
 
-**Will Feral File app ever share this usage data with anyone?**
+**Will Feral File ever share this usage data with anyone?**
 
-Absolutely and unconditionally not. We will never sell your data to any third parties. We will never allow any third-party advertisers or data collectors to track any of your behaviors in Feral File app. 
+Absolutely and unconditionally not. We will never sell your data to any third parties. We will never allow any third-party advertisers or data collectors to track any of your behaviors in the Feral File app.
 
-**If the Feral File app servers get hacked, could my usage data be compromised?**
+**If Feral File’s servers get hacked, could my usage data be compromised?**
 
-Absolutely not. We will never collect any personally identifiable information about you, such as your name, email address, or geographic location. Your Feral File app subscription information is completely controlled by Apple and Google, and we will never have any access to it. Contributing analytics can in no way put you at personal risk. Since you and only you control the keys to your wallet, no one can ever gain control of your wallet by hacking the Feral File app servers. 
+Absolutely not. We will never collect any personally identifiable information about you, such as your name, email address, or geographic location. Your Feral File app subscription information is completely controlled by Apple and Google, and we will never have any access to it. Contributing analytics can in no way put you at personal risk. Since you and only you control the keys to your wallet, no one can ever gain control of your wallet by hacking the Feral File’s servers.
