@@ -3,7 +3,7 @@
     "enable": true,
     "allow_view_only": true,
     "must_complete": true,
-    "postcard_tokenId_regex": "*"
+    "postcard_tokenId_regex": "^.*$"
   },
   "pay_to_mint": {
     "enable": true,
