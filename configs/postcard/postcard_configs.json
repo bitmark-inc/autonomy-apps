@@ -27,6 +27,6 @@
     "wait_confirmed_to_send": false
   },
   "feralfile_artwork_action": {
-    "allow_download_artwork_contracts": ["0xbFb4E125b8c3ccB82f46251902319EB49F4eBdC0","0x3114BA793a75f3f9F8e083Dd373EF176aEdff138"]
+    "allow_download_artwork_contracts": ["KT1LHMthpZWUyzgjtxu4ktD9kCbzEYQJBHGp","0xbFb4E125b8c3ccB82f46251902319EB49F4eBdC0","0x3114BA793a75f3f9F8e083Dd373EF176aEdff138"]
   }
 }
