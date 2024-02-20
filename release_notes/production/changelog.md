@@ -1,3 +1,47 @@
+[#] 0.47.0 - Jan 12, 2024
+
+### Autonomy renamed Feral File to includes all the same features plus news ways to organize, explore, and stream digital art.
+<img width="2084" alt="Rectangle_0 47" src="https://github.com/bitmark-inc/autonomy-apps/assets/61187455/72acd49f-13b0-49cc-84a9-cdb4b363efcb">
+
+### Visit Feral File exhibitions
+- Visit Feral File Exhibitions on the app, starting with the current show, +GRAPH. Past exhibitions will be made available for subscribers.
+
+### Live with digital art
+- Stream digital artwork to any compatible screen. Share and enjoy your favorite pieces with family, friends, and colleagues at home and in the office.
+- For interactive works, your mobile device becomes the remote control. Use the keyboard, experiment with the artist’s commands, and dive into the immersive world of software-based art.
+
+### Organize your collection
+- Consolidate collected digital art across blockchains (Ethereum and Tezos) 
+- Create collections within your collection. 
+- The app classifies artwork into 3 categories: Still, Video, Interactive.
+- Artworks by the same artist are automatically grouped into collections.
+
+### You can still:
+- Co-create a digital chain letter with MoMA Postcard. This experiment in borderless collaboration and creativity explores ways individuals, groups, and institutions can make and own digital goods.
+- The “View existing address” feature allows you to see other collections and share yours with friends. In other words, you can go beyond ownership and enjoy digital art.
+
+---
+
+[#] 0.46.0 - Dec 1, 2023
+
+- This release focuses mainly on bug fixing and UI/UX improvements.
+- We removed Discovery from the app.
+
+---
+
+[#] 0.45.0 - Nov 1, 2023
+
+This release focuses mainly on bug fixing and UI/UX improvements.
+
+---
+
+[#] 0.44.0 - Oct 1, 2023
+
+- This release focuses mainly on bug fixing and UI/UX improvements.
+- MoMA Postcard, an upcoming project with the Museum of Modern Art.
+
+---
+
 [#] 0.43.0 - Jul 28, 2023
 
 ### Access artwork listings on marketplaces
