@@ -34,9 +34,8 @@
   },
   "exhibition": {
     "specified_series_artwork_model_title": {
-      "f2779e7a-7f2d-496a-ada8-f15140ddf9bb": "Yoko-interactive instruction",
-      
-    },
+      "f2779e7a-7f2d-496a-ada8-f15140ddf9bb": "Yoko-interactive instruction"
+     },
     "yoko_ono_public": {
       "owner_data_contract": "0xA44FDAe923C5E838F21dF9f2e2F3eaA7B9586cEf",
       "moma_exhibition_contract": "0x987f27278A8C7F55e49056Cd5d5b7B98702C4f91",
