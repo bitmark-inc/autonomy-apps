@@ -30,20 +30,6 @@
   "feralfile_artwork_action": {
     "allow_download_artwork_contracts": ["KT19VkuK7tw22m4P36xRpPiMT4qzEw8YAN8A"],
     "sound_piece_contract_addresses": ["0xeB73dd0aD85BB09f3b24110E1051c93aad46096c"],
-    "scrollable_preview_url": null
-  },
-  "exhibition": {
-    "specified_series_artwork_model_title": {
-      "0ec945ca-4c0f-4b47-8ea9-9b8e9d963ee1": "Yoko-interactive instruction",
-      "1eebe886-2e7e-458a-8662-2a1c885c9058_test": "Yoko-interactive instruction_test"
-     },
-    "yoko_ono_public": {
-      "owner_data_contract": "0x0D2747bb3650bEbB2E3a0d89346348f788855cB4",
-      "moma_exhibition_contract": "0xeB73dd0aD85BB09f3b24110E1051c93aad46096c",
-      "public_token_id": "1523115895868291363820686614672318388550665344",
-      "public_version_preview": "previews/0ec945ca-4c0f-4b47-8ea9-9b8e9d963ee1/1710321331/index.html",
-      "public_version_thumbnail": "thumbnails/0ec945ca-4c0f-4b47-8ea9-9b8e9d963ee1/1710319727"
-    },
     "yoko_ono_private_token_ids": [
       "1895602686622922187846173513750084421022549120",
       "1895602686622922187846173513750084421022549121",
@@ -60,6 +46,20 @@
       "1895602686622922187846173513750084421022549132",
       "1895602686622922187846173513750084421022549133",
       "1895602686622922187846173513750084421022549134"
-    ]
+    ],
+    "scrollable_preview_url": null
+  },
+  "exhibition": {
+    "specified_series_artwork_model_title": {
+      "0ec945ca-4c0f-4b47-8ea9-9b8e9d963ee1": "Yoko-interactive instruction",
+      "1eebe886-2e7e-458a-8662-2a1c885c9058_test": "Yoko-interactive instruction_test"
+     },
+    "yoko_ono_public": {
+      "owner_data_contract": "0x0D2747bb3650bEbB2E3a0d89346348f788855cB4",
+      "moma_exhibition_contract": "0xeB73dd0aD85BB09f3b24110E1051c93aad46096c",
+      "public_token_id": "1523115895868291363820686614672318388550665344",
+      "public_version_preview": "previews/0ec945ca-4c0f-4b47-8ea9-9b8e9d963ee1/1710321331/index.html",
+      "public_version_thumbnail": "thumbnails/0ec945ca-4c0f-4b47-8ea9-9b8e9d963ee1/1710319727"
+    }
   }
 }
