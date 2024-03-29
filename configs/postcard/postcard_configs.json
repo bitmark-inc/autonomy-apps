@@ -72,9 +72,9 @@
     }
   },
   "dApp_urls": {
-      "deny_dApp_list": ["objkt.com"],
+      "deny_dApp_list": ["objkt.com"]
   },
   "in_app_webview": {
-      "uri_scheme_white_list": ["https"],
+      "uri_scheme_white_list": ["https"]
     }
 }
