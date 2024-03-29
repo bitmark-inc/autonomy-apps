@@ -70,5 +70,11 @@
       "public_version_preview": "previews/0ec945ca-4c0f-4b47-8ea9-9b8e9d963ee1/1710321331/index.html",
       "public_version_thumbnail": "thumbnails/0ec945ca-4c0f-4b47-8ea9-9b8e9d963ee1/1710319727"
     }
-  }
+  },
+  "dApp_urls": {
+      "deny_dApp_list": ["objkt.com"],
+  },
+  "in_app_webview": {
+      "uri_scheme_white_list": ["https"],
+    }
 }
