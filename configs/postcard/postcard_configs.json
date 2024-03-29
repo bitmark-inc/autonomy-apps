@@ -72,7 +72,7 @@
     }
   },
   "dApp_urls": {
-      "deny_dApp_list": ["objkt.com","OpenSea, the largest NFT marketplace"]
+      "deny_dApp_list": []
   },
   "in_app_webview": {
       "uri_scheme_white_list": ["https"]
