@@ -75,6 +75,6 @@
       "deny_dApp_list": ["objkt.com"]
   },
   "in_app_webview": {
-      "uri_scheme_white_list": []
+      "uri_scheme_white_list": ["https"]
     }
 }
