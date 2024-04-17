@@ -1,4 +1,5 @@
 {
     "FF_PURCHASE_URL": "https://feralfile2.dev.bitmark.com/exhibitions/check-reverse-dutch-auction-3-ybw?tab=Collect",
-    "FF_AUCTION_URL": "https://feralfile2.dev.bitmark.com/exhibitions/check-english-auction-2-37b?tab=Collect"
+    "FF_AUCTION_URL": "https://feralfile2.dev.bitmark.com/exhibitions/check-english-auction-2-37b?tab=Collect",
+    "FF_PURCHASE_CONTRACT": "0x69FCeD2Dfd5f35B8d2a3E740F09414FA1ff8C0C3",
 }
