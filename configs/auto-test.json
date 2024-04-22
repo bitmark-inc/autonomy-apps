@@ -3,5 +3,7 @@
     "FF_AUCTION_URL": "https://feralfile2.dev.bitmark.com/exhibitions/check-english-auction-2-37b?tab=Collect",
     "FF_PURCHASE_CONTRACT": "0x69FCeD2Dfd5f35B8d2a3E740F09414FA1ff8C0C3",
     "OS_PURCHASE_URL": "https://testnets.opensea.io/assets/sepolia/0xfc4a9d4cd18dea2acd38d8a4f292dfa5006ec838/2",
-    "OS_PURCHASE_CONTRACT": "0xfc4a9d4cd18dea2acd38d8a4f292dfa5006ec838"
+    "OS_PURCHASE_CONTRACT": "0xfc4a9d4cd18dea2acd38d8a4f292dfa5006ec838",
+    "OBJKT_PURCHASE_URL": "https://ghostnet.objkt.com/tokens/KT1JvTTtzqfQU7yj3GPzMnjwf9P63K2BWNyr/1",
+    "OBJKT_PURCHASE_CONTRACT": "KT1JvTTtzqfQU7yj3GPzMnjwf9P63K2BWNyr"
 }
