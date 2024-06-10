@@ -86,7 +86,8 @@
       "public_version_thumbnail": "thumbnails/faa810f7-7b75-4c02-bf8a-b7447a89c921/1709178836"
     },
     "john_gerrard": {
-      "contract_address": "0x9D57f2e1A8c864009ed0C980E2d31aa5EB42f820"
+      "contract_address": "0x9D57f2e1A8c864009ed0C980E2d31aa5EB42f820",
+      "exhibition_id": "46a0f68b-a657-4364-92a0-32a88b65fbd9"
     }
   },
   "dApp_urls": {
