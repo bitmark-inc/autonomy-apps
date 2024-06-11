@@ -76,7 +76,12 @@
     }
   },
   "dApp_urls": {
-    "deny_dApp_list": []
+    "deny_dApp_list": [],
+    "tezos_nodes": [
+      "https://mainnet.api.tez.ie",
+      "https://rpc.tzbeta.net",
+      "https://mainnet.tezos.marigold.dev"
+    ]
   },
   "in_app_webview": {
     "uri_scheme_white_list": [
