@@ -95,7 +95,8 @@
     "tezos_nodes": [
       "https://mainnet.api.tez.ie",
       "https://rpc.tzbeta.net",
-      "https://mainnet.tezos.marigold.dev"
+      "https://mainnet.smartpy.io",
+      "https://mainnet.ecadinfra.com"
     ]
   },
   "in_app_webview": {
