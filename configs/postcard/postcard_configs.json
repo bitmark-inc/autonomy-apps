@@ -77,7 +77,7 @@
   },
   "dApp_urls": {
     "deny_dApp_list": [],
-    "tezos_nodes": ""
+    "tezos_nodes": []
   },
   "in_app_webview": {
     "uri_scheme_white_list": [
