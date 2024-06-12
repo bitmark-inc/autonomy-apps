@@ -77,7 +77,8 @@
   },
   "dApp_urls": {
     "deny_dApp_list": [],
-    "tezos_nodes": ["https://mainnet.tezos.marigold.dev"]
+    "tezos_nodes": ["https://rpc.tzbeta.net",
+      "https://mainnet.tezos.marigold.dev"]
   },
   "in_app_webview": {
     "uri_scheme_white_list": [
