@@ -77,8 +77,10 @@
   },
   "dApp_urls": {
     "deny_dApp_list": [],
-    "tezos_nodes": ["https://rpc.tzbeta.net",
-      "https://mainnet.tezos.marigold.dev"]
+    "tezos_nodes": ["https://mainnet.api.tez.ie",
+      "https://rpc.tzbeta.net",
+      "https://mainnet.smartpy.io",
+      "https://mainnet.ecadinfra.com"]
   },
   "in_app_webview": {
     "uri_scheme_white_list": [
