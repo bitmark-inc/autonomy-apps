@@ -113,6 +113,9 @@
     "series_ids": [
       "0b95013a-599b-4af2-a0a4-fe13eff98e89",
       "4e7c1eba-7c17-4c38-9454-36c72ae98249"
+    ],
+    "asset_ids": [
+      "0ae03302f46d0e110b7c40472a4badda40e78356a598f342dca036a012c003c9d128b8c61083e14076937e8706ba50f37b094761a94614347cfd250c13dd4351"
     ]
   }
 }
