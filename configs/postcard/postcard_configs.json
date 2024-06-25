@@ -77,15 +77,15 @@
   },
   "dApp_urls": {
     "deny_dApp_list": [],
-    "tezos_nodes": ["https://mainnet.api.tez.ie",
+    "tezos_nodes": [
+      "https://mainnet.api.tez.ie",
       "https://rpc.tzbeta.net",
       "https://mainnet.smartpy.io",
-      "https://mainnet.ecadinfra.com"]
+      "https://mainnet.ecadinfra.com"
+    ]
   },
   "in_app_webview": {
-    "uri_scheme_white_list": [
-      "https"
-    ],
+    "uri_scheme_white_list": ["https"],
     "allowed_fingerprints": [
       "04 2A 70 D1 55 FC 5A 92 B9 1B 20 E5 D7 FB 6A D0 54 05 76 30",
       "9D E0 F5 9B DC 83 6D 5D D5 4A 27 7A 80 C5 3D 3C AF 72 A7 DD",
@@ -99,6 +99,30 @@
     ],
     "asset_ids": [
       "0ae03302f46d0e110b7c40472a4badda40e78356a598f342dca036a012c003c9d128b8c61083e14076937e8706ba50f37b094761a94614347cfd250c13dd4351"
+    ],
+    "additional_info": [
+      {
+        "title": "details",
+        "content": "<i>crystalline work (arctic)</i> is a software artwork in which a virtual robot is sited upon a barren platform at the Arctic North Pole. Using an ice-generation algorithm, the robot performs to create real time crystal patterns, titled “archetypes,” producing 24 unique archetypes per solar day, 168 per week, and 8,760 over an entire solar year. Archetypes include masks, solar crosses, mandalas, stars, trees, snowflakes, and mycelium. The robot also changes color second by second, shifting across the visible light spectrum in real time, from solstice to solstice. The length of time required for a performance’s completion can vary from 20 minutes to over 1 hour. Once an archetype is completed, the robot’s performance is digitally dropped into the Feral File gallery as a unique, dynamic, tokenized 3D Web Graphic Library (WebGL) art piece documenting that solar moment and made available to collect. <br /> <p style=\"font-size: 0.75em\"> Credits. Producer: Werner Poetzelberger, Programmer: Helmut Bressler, Generative Sound Producer: Jonas Hammerer, Engine: Babylon.js, Web Audio: Tone.js  </p>",
+        "readMore": true
+      },
+      {
+        "title": "interacting",
+        "content": "Drag within the scene to look around. Tap top left (“F” on keyboard) for full screen on/off. Tap top right (“R” on keyboard) to rotate the work. Tap bottom left (“S” on keyboard) to switch generative vibrational audio on or off. For individual works in the gallery of all works below ONLY: on a keyboard, “I” downloads the generated archetype as a 4,000-pixel image file for local pigment printing. “G” exports a txt file including artist guidelines for printing and framing. “M” exports the generated archetype as a 3D model for usage in 3D prints or virtual world building."
+      },
+      {
+        "title": "regenerating",
+        "content": "<i>crystalline work (arctic)</i> is not only a 365-day generative artwork, but also a regenerative work for the environment. 25% of sales revenue are donated to <a href=\"https://www.hometree.ie/\" target=\"_blank\">Hometree</a>, a charity committed to restoring a lost 4,000-acre temperate rainforest in Connemara, Ireland. For each collected day of the robot’s performance, 33 trees will be planted — which equates to 231 trees per week and 12,045 trees per year."
+      },
+      {
+        "title": "collecting",
+        "content": "<i>crystalline</i> performances are tokenized on the Ethereum blockchain, priced at $100 each work (~0.026 ETH at the time of sale’s start), and can be purchased using a credit card or ETH. Purchases made by credit card require an accompanying Ethereum wallet address to receive the artwork. The <a href=\"https://feralfile.com/app\" target=\"_blank\">Feral File app</a> provides the easiest method to open a new wallet address, receive your artwork(s), and enjoy your art in day-to-day life. Works will be available sequentially from launch on the Summer Solstice of 2024. Once collected, a placeholder will sit in the collector’s wallet until the work itself is performed by the robot, after which the artwork metadata will update with a recording of the performance. Works can be collected individually or collected and watched in greater numbers through a process called “stringing.”",
+        "readMore": true
+      },
+      {
+        "title": "stringing",
+        "content": "The artist recommends collecting and displaying the artworks in groups of 24 — based on the solar day — but has made it possible to collect individual works at a more accessible price point. gerrard hopes collectors will string multiple works together using the <a href=\"https://feralfile.com/app\" target=\"_blank\">Feral File app</a>, which can stream them to a local screen."
+      }
     ]
   }
 }
