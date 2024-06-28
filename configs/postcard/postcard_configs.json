@@ -100,7 +100,7 @@
     "asset_ids": [
       "0ae03302f46d0e110b7c40472a4badda40e78356a598f342dca036a012c003c9d128b8c61083e14076937e8706ba50f37b094761a94614347cfd250c13dd4351"
     ],
-    "additional_info": [
+    "custom_notes": [
       {
         "title": "details",
         "content": "<i>crystalline work (arctic)</i> is a software artwork in which a virtual robot is sited upon a barren platform at the Arctic North Pole. Using an ice-generation algorithm, the robot performs to create real time crystal patterns, titled “archetypes,” producing 24 unique archetypes per solar day, 168 per week, and 8,760 over an entire solar year. Archetypes include masks, solar crosses, mandalas, stars, trees, snowflakes, and mycelium. The robot also changes color second by second, shifting across the visible light spectrum in real time, from solstice to solstice. The length of time required for a performance’s completion can vary from 20 minutes to over 1 hour. Once an archetype is completed, the robot’s performance is digitally dropped into the Feral File gallery as a unique, dynamic, tokenized 3D Web Graphic Library (WebGL) art piece documenting that solar moment and made available to collect. <br /> <p style=\"font-size: 0.75em\"> Credits. Producer: Werner Poetzelberger, Programmer: Helmut Bressler, Generative Sound Producer: Jonas Hammerer, Engine: Babylon.js, Web Audio: Tone.js  </p>",
