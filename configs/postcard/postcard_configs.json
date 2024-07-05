@@ -64,11 +64,11 @@
       "1eebe886-2e7e-458a-8662-2a1c885c9058_test": "Yoko-interactive instruction_test"
     },
     "yoko_ono_public": {
-      "owner_data_contract": "0x0D2747bb3650bEbB2E3a0d89346348f788855cB4",
-      "moma_exhibition_contract": "0xeB73dd0aD85BB09f3b24110E1051c93aad46096c",
-      "public_token_id": "1523115895868291363820686614672318388550665344",
-      "public_version_preview": "previews/0ec945ca-4c0f-4b47-8ea9-9b8e9d963ee1/1710321331/index.html",
-      "public_version_thumbnail": "thumbnails/0ec945ca-4c0f-4b47-8ea9-9b8e9d963ee1/1710319727"
+      "owner_data_contract": "0x30F4D17baB0C815519c5d924ac4735be14eb25EC",
+      "moma_exhibition_contract": "0x1d9787369b1dcf709f92da1d8743c2a4b6028a83",
+      "public_token_id": "5429577522081131997036023001590580143450575936",
+      "public_version_preview": "previews/faa810f7-7b75-4c02-bf8a-b7447a89c921/1709110451/index.html",
+      "public_version_thumbnail": "thumbnails/faa810f7-7b75-4c02-bf8a-b7447a89c921/1709178836"
     },
     "john_gerrard": {
       "contract_address": "0xBE0A4E26a156B2a60cF515E86b3Df9756DEE1952",
