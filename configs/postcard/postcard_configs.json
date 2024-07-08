@@ -76,7 +76,8 @@
     },
     "crawl": {
       "exhibition_id": "3c4b0a8b-6d3e-4c32-aaae-c701bb9deca9"
-    }
+    },
+    "dont_fake_artwork_series_ids": ['0a954c31-d336-4e37-af0f-ec336c064879']
   },
   "dApp_urls": {
     "deny_dApp_list": [],
