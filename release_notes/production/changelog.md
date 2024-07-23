@@ -1,3 +1,9 @@
+[#] 0.48.0 - Mar 7, 2024
+
+This release focuses mainly on bug fixing and UI/UX improvements.
+
+---
+
 [#] 0.47.0 - Jan 12, 2024
 
 ### Autonomy renamed Feral File to includes all the same features plus news ways to organize, explore, and stream digital art.
