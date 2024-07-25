@@ -93,7 +93,8 @@
       "exhibition_id": "3c4b0a8b-6d3e-4c32-aaae-c701bb9deca9",
       "merge_series_id": "0a954c31-d336-4e37-af0f-ec336c064879"
     },
-    "dont_fake_artwork_series_ids": ["0a954c31-d336-4e37-af0f-ec336c064879"]
+    "dont_fake_artwork_series_ids": ["0a954c31-d336-4e37-af0f-ec336c064879"],
+    "on_going_exhibition_ids": ["46a0f68b-a657-4364-92a0-32a88b65fbd9"]
   },
   "dApp_urls": {
     "deny_dApp_list": [],
