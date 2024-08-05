@@ -1,4 +1,7 @@
 {
+  "display_app_url": {
+    "tizen": "https://www.feralfile.com"
+  },
   "merchandise": {
     "enable": true,
     "allow_view_only": true,
