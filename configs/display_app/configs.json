@@ -1,7 +1,7 @@
 {
   "tizen": {
     "url": "https://display.feralfile.com/?platform=tizen",
-    "gitHash": "ff933425e08783d218a97d20843231f71430d18d",
+    "gitHash": "e2247a6a53435dde2eddb70be493c37ba7399cbe",
     "updateInterval": "1"
   }
 }
