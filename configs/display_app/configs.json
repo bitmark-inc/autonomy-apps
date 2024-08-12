@@ -1,6 +1,6 @@
 {
   "tizen": {
-    "url": "https://feralfile-display.pages.dev?platform=tizen",
+    "url": "https://fix-get-name.feralfile-display.pages.dev?platform=tizen",
     "gitHash": "6c53d283914182115b08dfe4088e9775e00423e8",
     "updateInterval": "1"
   }
