@@ -1,5 +1,8 @@
 {
   "tizen": {
     "url": "https://display.feralfile.com/?platform=tizen"
+  },
+  "google": {
+    "url": "https://display.feralfile.com/?platform=google"
   }
 }
