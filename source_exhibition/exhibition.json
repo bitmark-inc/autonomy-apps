@@ -13,14 +13,12 @@
   "status": 4,
   "curator": {
     "ID": "listIDs",
-    "alias": "Operator, 0xDEAFBEEF, Casey Reas",
-    "slug": "Operator-esz"
+    "alias": "Operator, 0xDEAFBEEF, Casey Reas"
   },
   "curators": [
     {
       "ID": "edJxJgWLJrqsqaF4KqALCV5w8TEbiaPsxfb8qhkCQRVkuLj7Gw1",
       "alias": "Operator",
-      "slug": "Operator-esz",
       "fullName": "Operator",
       "avatarURI": "",
       "location": "",
@@ -29,7 +27,7 @@
     {
       "ID": "edJxJgWLJrqsqaF4KqALCV5w8TEbiaPsxfb8qhkCQRVkuLj7Gw2",
       "alias": "0xDEAFBEEF",
-      "slug": "0xDEAFBEEF-esz",
+      "slug": "0xdeafbeef-abe",
       "fullName": "0xDEAFBEEF",
       "avatarURI": "",
       "location": "",
@@ -38,7 +36,7 @@
     {
       "ID": "edJxJgWLJrqsqaF4KqALCV5w8TEbiaPsxfb8qhkCQRVkuLj7Gw3",
       "alias": "Casey Reas",
-      "slug": "Casey Reas-esz",
+      "slug": "casey-reas-nsa",
       "fullName": "Casey Reas",
       "avatarURI": "",
       "location": "",
@@ -49,6 +47,7 @@
     {
       "ID": "0",
       "alias": "Anna Lucia and Gee's Bend Quilters",
+      "slug": "anna-lucia-e7z",
       "bio": "Anna Lucia is an artist and engineer from The Netherlands based between Berlin and Cairo, where she creates her generative artworks. Her uniquely vivid approach combines mathematics and algorithms with traditional feminine crafts such as textile work. Notably, she collaborated with the renowned quilters of Gee’s Bend for the project “Generations” in 2023, which showcased physical quilts created from Anna Lucia’s software-generated patterns. She harnesses software to engage with audiences through interaction, virtual reality, and animated installations. Her artwork has been shown internationally at Vellum LA, Art Basel, Art Basel Miami, Decentral Art Pavilion in Venice, and Bright Moments in Mexico City.",
       "location": "Cairo, Egypt",
       "website": "https://feralfile.com/artists/Anna%20Lucia"
@@ -56,6 +55,7 @@
     {
       "ID": "1",
       "alias": "Holly Herndon + Mat Dryhurst",
+      "slug": "holly-herndon-and-mat-dryhurst-ibv",
       "bio": "Holly Herndon is a composer, musician, and sound artist. Since her 2012 debut album Movement, she has mined the edges of electronic and avant garde pop, drawing from her musical and academic pursuits alike. Herndon lives and works in Berlin.\n\nMat Dryhurst is a British artist, musician, and technological researcher based in Berlin, Germany.",
       "location": "Berlin, Germany",
       "website": "https://herndondryhurst.studio/"
@@ -77,6 +77,7 @@
     {
       "ID": "4",
       "alias": "Mitchell F. Chan",
+      "slug": "mitchell-f-chan-62x",
       "bio": "Mitchell F. Chan produces a diverse body of work, performed in both physical and digital public spaces. His blockchain-based work posits crypto as a harbinger of a fully dematerialized world, and conceptualism as a tool for understanding it. Examples include 2017's Digital Zones of Immaterial Pictorial Sensibility, one of the earliest non-fungible token artworks, and 2021's LeWitt Generator Generator, on Art Blocks. In physical spaces, he has produced permanent large-scale public projects across North America, most recently Monument to United Nations Peacekeeping Veterans (2022). His work has been discussed in numerous media outlets including Artforum, Kunstforum, VICE, Canadian Art, Slate, the Toronto Star, Gizmodo, and Art In America.",
       "location": "",
       "website": "https://feralfile.com/artists/Mitchell%20F.%20Chan"
@@ -84,6 +85,7 @@
     {
       "ID": "5",
       "alias": "Sarah Zucker",
+      "slug": "sarah-zucker-spq",
       "bio": "Sarah Zucker is an artist and writer based in Los Angeles. Her work merges humor, myth and mysticism with the interplay of cutting edge and archaic technologies.\n\nShe works across mediums. Her signature videos are produced by channeling video synthesis, animation and performance through a custom analog video rig onto physical VHS tapes in a unique digital-analog flow.\n\nShe’s been editioning her art on the blockchain since April 2019. In 2021, her work was part of “Natively Digital,“ the first curated NFT sale at Sotheby's, and “CryptOGs: The Pioneers of NFT Art“ at Bonhams.\n\nHer work was shown as part of “Peer to Peer,” the first survey of leading artists engaging with the blockchain presented at an American Museum.\n\nHer video art series “Four Caryatids” was among the first blockchain editions added to the permanent collection of the Buffalo AKG Art Museum. Her work was part of LACMA’s “Remembrance of Things Future,” a blockchain art initiative at the museum conceived and curated by Cactoid Labs.\n\nShe was named to the NFT100 list in 2022 and 2023 by NFTNow as one of the top artists working with NFTs.\n\nShe co-produced Prism Pipe, a monthly visual music event, at pehrspace in Los Angeles from 2014-2016.\n\nHer GIFs have over 7 billion views on Giphy. She is a Jeopardy! Champion.\n\nShe holds a BA in Theater and Creative Writing for the Media from Northwestern University, and an MFA in Dramatic Writing from New York University.",
       "location": "Los Angeles, CA",
       "website": "https://feralfile.com/artists/Sarah%20Zucker"
@@ -105,6 +107,7 @@
     {
       "ID": "8",
       "alias": "Iskra Velitchkova + Zach Lieberman",
+      "slug": "iskra-velitchkova-yg8",
       "bio": "Iskra Velitchkova is an artist currently based in Madrid. Her work explores the present and potential interactions between humans and machines, and how instead of making technology more human, this relationship can push us to better understand our limits. She believes that roots and tradition can nurture her work with greater truth. After a stint in the tech and artificial intelligence industry as a visual thinker, Iskra decided to apply her knowledge and experience to her own research using art as a medium for generative explorations. Her work is based on mixed techniques: both digital and physical.\n\nZach Lieberman is an artist and educator based in New York City. He creates artwork with code, and focuses on building experimental drawing and animation tools. He makes interactive environments that invite participants to become performers. His main focus is how computation can be used as medium for poetry.",
       "location": "Madrid, Spain",
       "website": "https://feralfile.com/artists/Iskra%20Velitchkova"
@@ -112,6 +115,7 @@
     {
       "ID": "9",
       "alias": "Maya Man",
+      "slug": "maya-man-75d",
       "bio": "Maya Man is an artist focused on contemporary identity culture on the internet. Her websites, generative series, installations, textiles, and social media posts examine dominant narratives around femininity, authenticity, and the performance of self online. She is the creator of the browser extension Glance Back and the Art Blocks curated collection FAKE IT TILL YOU MAKE IT. She has exhibited internationally at bitforms, NYC; SOOT, Tokyo; Vellum, Los Angeles; Power Station of Art, Shanghai; and Feral File, online. Her work has been featured in Art in America, Forbes, Zora Zine, Outland, Refinery29, and more. Maya holds Bachelor of Arts degrees in Computer Science and Media Studies from Pomona College and an MFA in Media Art from UCLA.",
       "location": "New York",
       "website": "https://feralfile.com/artists/Maya%20Man"
@@ -133,6 +137,7 @@
     {
       "ID": "12",
       "alias": "Travess Smalley",
+      "slug": "travess-smalley-x2r",
       "bio": "Travess Smalley is an artist working with computation to make generative image systems. Creating Painting Software, computer graphics, digital images, books, drawings, and <a href=\"https://objkt.com/profile/tz1dzyRWZQXJSbx2XuZSvjbr3QgyVASvBUA7/created\" target=\"_blank\" class=\"link\">Pixel Rugs</a>. Artwork is represented by <a href=\"https://foxyproduction.com/artists/travess-smalley/\" target=\"_blank\" class=\"link\">Foxy Production</a> in New York and teaching Print Media in the College of Arts and Sciences at the <a href=\"https://www.uri.edu/\" target=\"_blank\" class=\"link\">The University of Rhode Island</a>.",
       "location": "",
       "website": "https://www.travesssmalley.com/"
@@ -168,6 +173,7 @@
     {
       "ID": "17",
       "alias": "Jonas Lund",
+      "slug": "jonas-lund-yw9",
       "bio": "Jonas Lund creates paintings, sculpture, photography, websites, and performances that critically reflect on contemporary networked systems and power structures of control. His artistic practice involves creating systems and setting up parameters that oftentimes require engagement from the viewer. This results in performative artworks where tasks are executed according to algorithms or a set of rules. Through his works, Lund investigates the latest issues generated by the increasing digitization of contemporary society, such as authorship, participation, and distribution of agency. At the same time, he questions the mechanisms of the art world; he challenges the production process, authoritative power, and art market practices. Lund has had solo exhibitions at The Photographers’ Gallery (2019); Whitechapel Art Gallery, London (2016); Steve Turner, Los Angeles (2016, 2015, 2014); and Showroom MAMA, Rotterdam (2013). Group exhibitions include Centre Pompidou, Paris; Schinkel Pavillon, Berlin; ZKM, Karlsruhe; and the Stedelijk Museum, Amsterdam, among others.",
       "location": "Amsterdam / Berlin",
       "website": "https://feralfile.com/artists/Jonas%20Lund"
@@ -175,6 +181,7 @@
     {
       "ID": "18",
       "alias": "Lauren Lee McCarthy",
+      "slug": "lauren-lee-mccarthy-28f",
       "bio": "Lauren Lee McCarthy is an artist examining social relationships in the midst of surveillance, automation, and algorithmic living. She is a 2021 United States Artist Fellow, 2020 Sundance New Frontier Story Lab Fellow, 2020 Eyebeam Rapid Response Fellow, 2019 Creative Capital Grantee, and has been a resident at Eyebeam, ZERO1, CMU STUDIO for Creative Inquiry, Autodesk, NYU ITP, and Ars Electronica. Her work SOMEONE was awarded the Ars Electronica Golden Nica and the Japan Media Arts Social Impact Award, and her work LAUREN was awarded the IDFA DocLab Award for Immersive Non-Fiction. Lauren's work has been exhibited internationally at places such as the Barbican Centre, Fotomuseum Winterthur, Haus der elektronischen Künste, SIGGRAPH, Onassis Cultural Center, IDFA DocLab, Seoul Museum of Art, and the Japan Media Arts Festival. She is the creator of p5.js, an open source programming language for learning creative expression through code online. She helps direct the Processing Foundation, a non-profit whose mission is to promote software literacy within the visual arts, and visual literacy within technology-related fields—and to make these fields accessible to diverse communities. Lauren is an Associate Professor at UCLA Design Media Arts.",
       "location": "Los Angeles, USA",
       "website": "https://feralfile.com/artists/Lauren%20Lee%20McCarthy"
@@ -182,6 +189,7 @@
     {
       "ID": "19",
       "alias": "Mario Klingemann",
+      "slug": "mario-klingemann_tez-ycl",
       "bio": "Mario Klingemann is an artist who uses algorithms and artificial intelligence to create and investigate systems. He is particularly interested in human perception of art and creativity, researching methods in which machines can augment or emulate these processes. Thus his artistic research spans a wide range of areas like generative art, cybernetic aesthetics, information theory, feedback loops, pattern recognition, emergent behaviors, neural networks, cultural data, or storytelling.\n\nHe has been active in the field of blockchain-based art since early 2020 and played an instrumental role in the stewardship and emergence of the ecologically responsible and self-governed NFT community Hic et Nunc.\n\nHe was winner of the Lumen Prize Gold 2018, received an honorary mention at the Prix Ars Electronica 2020, and won the British Library Labs Creative Award 2015. He was artist in residence at the Google Arts & Culture Lab and has been recognized as a pioneer in the field of AI art. His work has been featured in art publications as well as academic research and has been shown in international museums and at art festivals like Ars Electronica, the Centre Pompidou, ZKM, the Barbican, the Photographers' Gallery, Colección Solo Madrid, Grey Area Foundation, Mediacity Biennale Seoul, the British Library, and MoMA. He is represented by Onkaos, Madrid and DAM Gallery Berlin.",
       "location": "Munich, Germany",
       "website": "https://feralfile.com/artists/Mario%20Klingemann"
@@ -189,6 +197,7 @@
     {
       "ID": "20",
       "alias": "Melissa Wiederrecht",
+      "slug": "melissa-wiederrecht-bgu",
       "bio": "Melissa Wiederrecht is a generative artist from America, living and working in Saudi Arabia. She chose generative art as her career after earning a MS in Computer Science in 2014.  Having been fascinated by code-generated art for more than 20 years, Melissa continuously pushes the boundaries of generative art as a medium, both technically and aesthetically.\n\nMelissa is an Art Blocks Curated artist, and released “Sudfah” on Art Blocks in June 2022.  She has released several collections on fxhash (including “Zbageti”, “Solitude”, “Orbs”, and others), and has also worked on generative Surface Pattern Design, creating dozens of collections to be digitally printed on surfaces of products.",
       "location": "Saudi Arabia",
       "website": "https://feralfile.com/artists/Melissa%20Wiederrecht"
@@ -203,6 +212,7 @@
     {
       "ID": "22",
       "alias": "Sarah Friend",
+      "slug": "sarah-friend-533",
       "bio": "Sarah Friend is an artist, software developer and researcher from Canada and currently based in Berlin, Germany. She is Visiting Chair of blockchain art at The Cooper Union. She is also a participant in the Berlin Program for Artists, a co-curator of Ender Gallery, an artist residency taking place inside the game Minecraft, and an organizer of Our Networks, a conference on all aspects of the distributed web. Recent solo exhibitions include Off: Endgame, curated by Rhizome, Refraction and Fingerprints at Public Works Administration, New York, USA and Terraforming at Galerie Nagel Draxler in Berlin, Germany.",
       "location": "Berlin, Germany",
       "website": "https://feralfile.com/artists/Sarah%20Friend"
@@ -210,6 +220,7 @@
     {
       "ID": "23",
       "alias": "Primavera De Filippi",
+      "slug": "primavera-de-filippi-and-wolfgang-natlacen-wl6gu",
       "bio": "Primavera De Filippi is a legal scholar at Harvard University, as well as an internet activist and artist exploring the intersection between law and technology, focusing specifically on the legal and political implications of blockchain technology. Her artistic practice instantiates the key findings of her research in the physical world, creating blockchain-based lifeforms that evolve and reproduce themselves as people feed them with cryptocurrencies. Her works have been exposed in various museums, galleries, and art fairs around the world including Ars Electronica, Furtherfield Gallery, Kinetica Art Fair, Centre Pompidou, Grand Palais, Gaité Lyrique, and Le Cent Quatre, as well as festivals such as Burning Man and Fusion Festival.",
       "location": "Paris, France",
       "website": "https://feralfile.com/artists/Primavera%20De%20Filippi%20&%20Wolfgang%20Natlacen"
