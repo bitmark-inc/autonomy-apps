@@ -1,9 +1,9 @@
 {
   "tizen": {
-    "url": "https://develop.feralfile-display-prod.pages.dev?platform=tizen"
+    "url": "https://support-older-chromium-versi.feralfile-display-prod.pages.dev?platform=tizen"
   },
   "google": {
-    "url": "https://develop.feralfile-display.pages.dev?platform=google"
+    "url": "https://support-older-chromium-versi.feralfile-display-prod.pages.dev?platform=google"
   },
   "duration": 600000
 }
