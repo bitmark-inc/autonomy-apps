@@ -153,5 +153,8 @@
         "content": "The artist recommends collecting and displaying the artworks in groups of 24 — based on the solar day — but has made it possible to collect individual works at a more accessible price point. gerrard hopes collectors will string multiple works together using the <a href=\"https://feralfile.com/app\" target=\"_blank\">Feral File app</a>, which can stream them to a local screen."
       }
     ]
+  },
+  "daily": {
+    "scheduleTime": "6"
   }
 }
