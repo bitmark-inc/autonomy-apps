@@ -1,6 +1,6 @@
 {
   "tizen": {
-    "url": "https://jp.feralfile-display-prod.pages.dev?platform=tizen"
+    "url": "https://develop.feralfile-display-prod.pages.dev?platform=tizen"
   },
   "google": {
     "url": "https://develop.feralfile-display-prod.pages.dev?platform=google"
